@@ -7,8 +7,6 @@ coverY: 0
 
 \[Section In Progress]
 
-
-
 ### Benefits
 
 **Security**: Decentralization through Aleo's blockchain eliminates single points of failure and minimizes the risk of mass data breaches.

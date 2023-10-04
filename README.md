@@ -18,8 +18,8 @@ layout:
 
 ## Quick links
 
-{% content-ref url="overview/zpass/" %}
-[zpass](overview/zpass/)
+{% content-ref url="overview/zpass-litepaper/" %}
+[zpass-litepaper](overview/zpass-litepaper/)
 {% endcontent-ref %}
 
 {% content-ref url="overview/demo.md" %}
