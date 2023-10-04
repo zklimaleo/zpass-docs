@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Technical Foundations.png
+coverY: 0
+---
+
 # Technical Foundations
 
 **Core Mechanics**

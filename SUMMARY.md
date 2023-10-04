@@ -1,17 +1,17 @@
 # Table of contents
 
-* [👋 Welcome to zPass](README.md)
+* [Welcome to zPass](README.md)
 
 ## Overview
 
-* [zPass Litepaper](overview/zpass-litepaper/README.md)
-  * [Introduction](overview/zpass-litepaper/introduction.md)
-  * [Background](overview/zpass-litepaper/background.md)
-  * [Technical Foundations](overview/zpass-litepaper/technical-foundations.md)
-  * [System Architecture](overview/zpass-litepaper/system-architecture.md)
-  * [Participants](overview/zpass-litepaper/participants.md)
-  * [Use Cases](overview/zpass-litepaper/use-cases.md)
-  * [Powered by Aleo](overview/zpass-litepaper/powered-by-aleo.md)
+* [zPass](overview/zpass/README.md)
+  * [Introduction](overview/zpass/introduction.md)
+  * [Background](overview/zpass/background.md)
+  * [Technical Foundations](overview/zpass/technical-foundations.md)
+  * [System Actors](overview/zpass/system-actors.md)
+  * [Architecture](overview/zpass/architecture.md)
+  * [Use Cases](overview/zpass/use-cases.md)
+  * [Powered by Aleo](overview/zpass/powered-by-aleo.md)
 * [Demo](overview/demo.md)
 
 ## Product Guides
@@ -26,4 +26,4 @@
 
 ## Use Cases
 
-* [🖥 Live Example](use-cases/live-example.md)
+* [Live Example](use-cases/live-example.md)

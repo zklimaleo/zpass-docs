@@ -1,4 +1,11 @@
-# Participants
+---
+cover: ../../.gitbook/assets/System Actors.png
+coverY: 0
+---
+
+# System Actors
+
+## **Actors**
 
 ### **Issuer**
 

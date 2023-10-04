@@ -1,13 +1,25 @@
-# 👋 Welcome to zPass
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-## Overview
+# Welcome to zPass
 
-
+<figure><img src=".gitbook/assets/Main.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Quick links
 
-{% content-ref url="overview/zpass-litepaper/" %}
-[zpass-litepaper](overview/zpass-litepaper/)
+{% content-ref url="overview/zpass/" %}
+[zpass](overview/zpass/)
 {% endcontent-ref %}
 
 {% content-ref url="overview/demo.md" %}

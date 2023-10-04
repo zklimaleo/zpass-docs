@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/intro (1).png
+coverY: 0
+---
+
 # Introduction
 
 Identity verification offers protection against fraudulent activities, ensuring that an individual genuinely matches their claimed identity. The process can be as simple as presenting a library card to borrow books from a university library, or as intricate as confirming one's identity with a secret password, such as a PIN when using a debit or credit card.

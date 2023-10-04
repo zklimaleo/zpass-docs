@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Background.png
+coverY: 0
+---
+
 # Background
 
 **The Central Challenge**

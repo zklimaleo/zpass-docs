@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/poweredby.png
+coverY: 0
+---
+
 # Powered by Aleo
 
 Built on Aleo's blockchain, zPass inherits the cryptographic capabilities of the ZEXE (Zero-Knowledge Execution Environment) model. What sets ZEXE (and therefore Aleo) apart is its innovative use of zero-knowledge proofs, combined with the ability to move execution off-chain:
