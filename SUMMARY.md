@@ -23,6 +23,8 @@
 * [Issue Credential](fundamentals/issue-credential/README.md)
   * [Hash Types](fundamentals/issue-credential/hash-types.md)
   * [Signatures](fundamentals/issue-credential/signatures.md)
+* [Proof Credential](fundamentals/proof-credential.md)
+* [Verify Credential](fundamentals/verify-credential.md)
 
 ## Use Cases
 

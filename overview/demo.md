@@ -19,4 +19,4 @@ layout:
 
 # Demo
 
-{% embed url="https://app.supademo.com/demo/z4ZQrAsv_K6vCeyS2ggyK" %}
+{% @supademo/embed demoId="z4ZQrAsv_K6vCeyS2ggyK" url="https://app.supademo.com/demo/z4ZQrAsv_K6vCeyS2ggyK" %}

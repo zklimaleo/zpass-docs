@@ -6,7 +6,7 @@ layout:
     visible: true
     size: full
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:

@@ -12,6 +12,5 @@ layout:
     visible: true
 ---
 
-# Create-zPass-App
+# Verify Credential
 
-##
