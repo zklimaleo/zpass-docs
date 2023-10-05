@@ -36,3 +36,5 @@ Conversely, decentralized identity solutions, though promising in principle, gra
 **A Compliant, Secure Alternative**
 
 Driven by the challenges, regulatory standards, and limitations in existing digital identity systems, we developed zPass. This system, anchored on the Aleo blockchain, harnesses the power of zero-knowledge cryptography, off-chain execution, and zero-knowledge proofs to ensure accurate computations. Validators simply verify the proof, saving time and reducing redundancy in computations. The core aim of zPass is to offer definitive verification with minimal public data exposure, ensuring adaptability to both current and evolving regulatory standards.
+
+\
