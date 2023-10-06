@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Technical Foundations.png
+cover: ../../.gitbook/assets/Tech Foundations.png
 coverY: 0
 layout:
   cover:

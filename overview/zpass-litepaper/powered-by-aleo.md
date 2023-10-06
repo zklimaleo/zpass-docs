@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/poweredby.png
+cover: ../../.gitbook/assets/Built With Aleo.png
 coverY: 0
 layout:
   cover:

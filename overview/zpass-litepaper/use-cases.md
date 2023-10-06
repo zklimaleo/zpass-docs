@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/usecases.png
+cover: ../../.gitbook/assets/Use Cases.png
 coverY: 0
 layout:
   cover:

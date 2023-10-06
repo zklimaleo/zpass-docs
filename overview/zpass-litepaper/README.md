@@ -1,5 +1,10 @@
 ---
+cover: ../../.gitbook/assets/Hero.png
+coverY: 151.85136501516683
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
@@ -13,8 +18,6 @@ layout:
 ---
 
 # zPass
-
-<figure><img src="../../.gitbook/assets/Main.jpg" alt=""><figcaption></figcaption></figure>
 
 As of 2023, the World Wide Web is accessed by a staggering 5.18 billion internet users, encompassing nearly two-thirds of the global populace. The Web, an intuitive information system, facilitates seamless information exchange across diverse user groups, from tech aficionados to everyday users. However, this universality often comes at the cost of privacy. Users frequently authenticate attributes like age, nationality, passwords, PINs, or memberships to access various web resources. That leaves us with a big challenge? How can users authenticate and access products without compromising their privacy or divulging sensitive data.
 
