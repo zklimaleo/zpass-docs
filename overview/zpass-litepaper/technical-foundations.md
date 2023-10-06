@@ -19,10 +19,6 @@ layout:
 
 # Technical Foundations
 
-The blockchain's Achilles heel has been its inherent transparency, which inadvertently compromises user privacy. Such transparency makes blockchain-based systems robust against threats but simultaneously deters potential applications like identity verification or traditional finance.
-
-zPass benefits from Aleo, a private layer 1 blockchain secured by zero-knowledge cryptography to ensure data integrity, authenticity, and _privacy_. zPass leverages the blockchain's decentralized structure, to help counteract the risks of Distributed Denial of Service (DDoS) attacks and single Points of Failure (SPoF).
-
 **Core Mechanics**
 
 The backbone of zPass relies on zero-knowledge proofs, and, more specifically, zk-snarks. The shift to general-purpose zero-knowledge proofs ensures greater privacy and programmability than traditional identity verification systems. Aleo's infrastructure is secure and scalable, providing a strong foundation for zPass.
