@@ -19,12 +19,14 @@ layout:
 
 # zPass
 
-As of 2023, the World Wide Web is accessed by a staggering 5.18 billion internet users, encompassing nearly two-thirds of the global populace. This universality often comes at the cost of privacy. Users frequently authenticate attributes like age, nationality, passwords, PINs, or memberships to access various web resources. This begs the question -
+Navigating the balance between robust identity verification and user privacy is essential in an increasingly digital world. Traditional identity systems, vulnerable to DDoS and single-point failures, fall short in the modern threat landscape.&#x20;
 
-**How can users authenticate and access products without compromising their privacy or divulging sensitive data?**
+In this paper, we present zPass, a protocol on the Aleo blockchain that uses zero-knowledge cryptographer to empower users with –
 
-We introduce zPass, a solution that employs Aleo, the zero-knowledge developer platform and blockchain, and its domain-specific language, Leo, to generate programs that better protect privacy in identity verification.
+* Decentralized identity verification, reducing risks like insider threats or data breaches from unpatched vulnerabilities.
+* Anonymous credentials from existing identity documents, streamlining real-world adoption without requiring protocol changes.
+* Slective attribute disclosure for user privacy, allowing user to prove identity assertions over multiple credentials
 
-**zPass addresses the privacy-security challenge.**&#x20;
+In practice, zPass performs verifications in under Xms, setting a new standard for fast, privacy-preserving digital identity.
 
-Web users often need to prove specific attributes about themselves, such as age, nationality, or membership. There is a growing need for those users to verify those attributes about themselves without risking their privacy or personal data.
+\

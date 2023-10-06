@@ -19,15 +19,13 @@ layout:
 
 # Background
 
-With the rise in online transactions and the ever-evolving sophistication of identity fraud, there's an emergent need for robust digital identity verification.&#x20;
-
-Digital Identity verification not only mitigates the risk and costs associated with fraud but could also ensure compliance with anti-money laundering regulations, while minimizing data shared across multiple parties.&#x20;
-
 Web users often need to prove specific attributes about themselves, such as age, nationality, or membership. There is a growing need for those users to verify those attributes about themselves without risking their privacy or personal data.
+
+zPass is a solution that employs Aleo, the zero-knowledge developer platform and blockchain, and its domain-specific language, Leo, to generate programs that better protect privacy in identity verification. zPass transforms the manner in which credentials are issued, verified, and used. It places power in the hands of the users while ensuring privacy and eliminating the challenge of compliance for platforms and developers.
 
 **The Central Challenge**
 
-Verifying identity attributes in the digital realm poses two main challenges: the need to minimize personal data disclosure and the need to remain compliant with increasingly stringent data protection regulations.
+Verifying identity attributes like age and nationality in the digital realm poses two main challenges: the need to minimize personal data disclosure and the need to remain compliant with increasingly stringent data protection regulations.
 
 **Regulatory Landscape**
 
@@ -35,12 +33,8 @@ Regulatory frameworks such as GDPR and CCPA have raised the bar for data privacy
 
 **Limitations of Existing Solutions**
 
-Today's digital identity solutions face inherent challenges due to their design and reliance on external entities. Centralized systems, while often efficient, confront a delicate balance between security and privacy. Often, these systems collect an overabundance of data for verification, making them ripe targets for data breaches and social engineering attacks. Although they might tick the boxes for regulatory compliance, the latent risk remains a concerning vulnerability.
-
-Conversely, decentralized identity solutions, though promising in principle, grapple with their own challenges. Their on-chain execution, inherently transparent, poses privacy concerns, negating some benefits of decentralization. The industry needs to address and resolve these complexities to ensure both compliance and user trust.
+Current centralized identity systems face a trade-off between security and privacy, often collecting more data than is actually needed for verification. While sometimes compliant with regulations, they become prime targets for data breaches and social engineering attacks, undermining both user privacy and regulatory adherence. Existing decentralized solutions, on the other hand, struggle with privacy and efficiency due to the public nature of transparent on-chain execution.
 
 **A Compliant, Secure Alternative**
 
-Driven by the challenges, regulatory standards, and limitations in existing digital identity systems, we developed zPass. This system, anchored on the Aleo blockchain, harnesses the power of zero-knowledge cryptography, off-chain execution, and zero-knowledge proofs to ensure accurate computations. Validators simply verify the proof, saving time and reducing redundancy in computations. The core aim of zPass is to offer definitive verification with minimal public data exposure, ensuring adaptability to both current and evolving regulatory standards.
-
-\
+Built on the Aleo blockchain, zPass is designed to utilize zero-knowledge cryptography as a flexible solution in an evolving regulatory environment. The system aims to provide verification assurance with minimized data exposure, making it compatible with both current and anticipated regulatory guidelines.
