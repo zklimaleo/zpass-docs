@@ -29,11 +29,11 @@ The Issuer is the entity accountable for generating, hashing, and signing digita
 
 **Role and Responsibilities**
 
-Credential Generation: Creates a digital credential with required attributes like issuer address, subject address, date of birth (DOB), expiration date, etc.
+_Credential Generation_: Creates a digital credential with required attributes like issuer address, subject address, date of birth (DOB), expiration date, etc.
 
-Hashing: Applies cryptographic hash functions to the credential for data integrity.
+_Hashing_: Applies cryptographic hash functions to the credential for data integrity.
 
-Signing: Uses its private key to sign the hashed credential, ensuring its authenticity.
+_Signing_: Uses its private key to sign the hashed credential, ensuring its authenticity.
 
 **Issuer-Aleo Integration**
 
