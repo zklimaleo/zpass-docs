@@ -19,16 +19,6 @@ layout:
 
 # Architecture
 
-zPass combines the capabilities of zero-knowledge proofs with the nuances of real-world identity, enabling secure interactions in the digital world.
-
-Using Aleo as its base, zPass makes digital identities more secure and private, easy to audit, and flexible to use— online and across different platforms.
-
-Credential data is embedded into a record on the Aleo blockchain.
-
-Utilizing Aleo's native encryption, credential information remains confidential.
-
-This approach leverages the inherent security features of the Aleo blockchain to ensure both integrity and confidentiality.
-
 <figure><img src="../../.gitbook/assets/Chart2.png" alt=""><figcaption></figcaption></figure>
 
 _**This architecture offers:**_
