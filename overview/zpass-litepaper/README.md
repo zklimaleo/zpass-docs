@@ -19,10 +19,14 @@ layout:
 
 # zPass
 
-As of 2023, the World Wide Web is accessed by a staggering 5.18 billion internet users, encompassing nearly two-thirds of the global populace. The Web, an intuitive information system, facilitates seamless information exchange across diverse user groups, from tech aficionados to everyday users. However, this universality often comes at the cost of privacy. Users frequently authenticate attributes like age, nationality, passwords, PINs, or memberships to access various web resources. That leaves us with a big challenge? How can users authenticate and access products without compromising their privacy or divulging sensitive data.
+As of 2023, the World Wide Web is accessed by a staggering 5.18 billion internet users, encompassing nearly two-thirds of the global populace. This universality often comes at the cost of privacy. Users frequently authenticate attributes like age, nationality, passwords, PINs, or memberships to access various web resources. This begs the question -
 
-Addressing this privacy-security challenge, we introduce zPass, a system architected on Aleo's zero-knowledge platform and implemented in the Leo programming language. zPass benefits from Aleo's consensus mechanisms, which help counteract the risks of Distributed Denial of Service (DDoS) attacks and single Points of Failure (SPoF). It leverages blockchain's decentralized structure, fortified by cryptographic methods to ensure data integrity and authenticity.&#x20;
+**How can users authenticate and access products without compromising their privacy or divulging sensitive data?**
 
-Yet, blockchain's Achilles heel is its inherent transparency, which could inadvertently compromise user privacy. Such transparency makes blockchain-based systems robust against threats but simultaneously deters potential applications like identity verification or supply chain management. Broadcasting sensitive data, like one's passport, across a network is untenable, just as a Battleship game loses its charm if players can predict each other's moves.
+We introduce zPass, a system architected on Aleo's zero-knowledge platform and implemented in the Leo programming language.&#x20;
 
-zPass reimagines the distribution, validation, and utilization of digital credentials. It empowers users, prioritizing their privacy, while simultaneously easing compliance responsibilities (e.g., data management) for platforms and developers. In essence, zPass bridges the gap, ensuring both user identity security and the preservation of their privacy.
+**zPass addresses the privacy-security challenge.**&#x20;
+
+Web users often need to prove specific attributes about themselves, such as age, nationality, or membership. There is a growing need for those users to verify those attributes about themselves without risking their privacy or personal data.
+
+This document introduces zPass, a solution that employs Aleo, the zero-knowledge developer platform and blockchain, and its domain-specific language, Leo, to generate programs that better protect privacy in identity verification.

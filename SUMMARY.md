@@ -5,7 +5,6 @@
 ## Overview
 
 * [zPass](overview/zpass-litepaper/README.md)
-  * [Introduction](overview/zpass-litepaper/introduction.md)
   * [Background](overview/zpass-litepaper/background.md)
   * [Technical Foundations](overview/zpass-litepaper/technical-foundations.md)
   * [System Actors](overview/zpass/system-actors.md)
