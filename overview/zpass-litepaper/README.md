@@ -23,10 +23,8 @@ As of 2023, the World Wide Web is accessed by a staggering 5.18 billion internet
 
 **How can users authenticate and access products without compromising their privacy or divulging sensitive data?**
 
-We introduce zPass, a system architected on Aleo's zero-knowledge platform and implemented in the Leo programming language.&#x20;
+We introduce zPass, a solution that employs Aleo, the zero-knowledge developer platform and blockchain, and its domain-specific language, Leo, to generate programs that better protect privacy in identity verification.
 
 **zPass addresses the privacy-security challenge.**&#x20;
 
 Web users often need to prove specific attributes about themselves, such as age, nationality, or membership. There is a growing need for those users to verify those attributes about themselves without risking their privacy or personal data.
-
-This document introduces zPass, a solution that employs Aleo, the zero-knowledge developer platform and blockchain, and its domain-specific language, Leo, to generate programs that better protect privacy in identity verification.
