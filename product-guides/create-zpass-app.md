@@ -14,4 +14,12 @@ layout:
 
 # Create-zPass-App
 
-##
+{% tabs %}
+{% tab title="Install" %}
+
+{% endtab %}
+
+{% tab title="Launch" %}
+
+{% endtab %}
+{% endtabs %}

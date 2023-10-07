@@ -11,16 +11,9 @@
     * [Issuer](overview/zpass/system-actors/issuer.md)
     * [Holder](overview/zpass/system-actors/holder.md)
     * [Verifier](overview/zpass/system-actors/verifier.md)
-  * [Workflows](overview/zpass/workflows/README.md)
-    * [On-chain](overview/zpass/workflows/on-chain.md)
-    * [Off-chain](overview/zpass/workflows/off-chain.md)
   * [Use Cases](overview/zpass-litepaper/use-cases.md)
   * [Powered by Aleo](overview/zpass-litepaper/powered-by-aleo.md)
 * [Demo](overview/demo.md)
-
-## Product Guides
-
-* [Create-zPass-App](product-guides/create-zpass-app.md)
 
 ## Fundamentals
 
@@ -30,6 +23,11 @@
 * [Proof Credential](fundamentals/proof-credential.md)
 * [Verify Credential](fundamentals/verify-credential.md)
 
-## Use Cases
+## Workflow
 
-* [Live Example](use-cases/live-example.md)
+* [Off-chain](workflow/off-chain.md)
+* [On-chain](workflow/on-chain.md)
+
+## Product Guides
+
+* [Create-zPass-App](product-guides/create-zpass-app.md)

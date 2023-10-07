@@ -1,10 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/System Actors.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -17,6 +12,6 @@ layout:
     visible: true
 ---
 
-# System Actors
+# On-chain
 
-**\[Diagram]**
+<figure><img src="../.gitbook/assets/Chart2.png" alt=""><figcaption></figcaption></figure>
