@@ -25,9 +25,9 @@
 
 ## Workflow
 
-* [Off-chain](workflow/off-chain.md)
-* [On-chain](workflow/on-chain.md)
+* [Off-chain](overview/zpass/workflows/off-chain.md)
+* [On-chain](overview/zpass/workflows/on-chain.md)
 
-## Product Guides
+## Deployment Guide
 
-* [Create-zPass-App](product-guides/create-zpass-app.md)
+* [Create-zPass-App](deployment-guide/create-zpass-app.md)

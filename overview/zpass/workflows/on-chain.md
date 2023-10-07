@@ -12,6 +12,6 @@ layout:
     visible: true
 ---
 
-# Off-chain
+# On-chain
 
-<figure><img src="../.gitbook/assets/offchain.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Chart2.png" alt=""><figcaption></figcaption></figure>
