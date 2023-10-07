@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Architecture.png
+cover: ../../../.gitbook/assets/Architecture.png
 coverY: 0
 layout:
   cover:
@@ -17,11 +17,23 @@ layout:
     visible: true
 ---
 
-# Architecture
+# Workflows
 
-<figure><img src="../../.gitbook/assets/Chart2.png" alt=""><figcaption></figcaption></figure>
+<details>
 
-_**This architecture offers:**_
+<summary>Off-chain Workflow</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>On-chain Workflow</summary>
+
+
+
+</details>
 
 **Security**: Decentralization through Aleo's blockchain eliminates single points of failure and minimizes the risk of mass data breaches.
 
