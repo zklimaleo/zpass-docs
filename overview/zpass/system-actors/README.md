@@ -19,4 +19,4 @@ layout:
 
 # System Actors
 
-**\[Diagram]**
+<figure><img src="../../../.gitbook/assets/actors.png" alt=""><figcaption></figcaption></figure>
