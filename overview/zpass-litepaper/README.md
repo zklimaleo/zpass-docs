@@ -28,21 +28,3 @@ In this paper, we present zPass, a protocol on the Aleo blockchain that uses zer
 * Selective attribute disclosure for user privacy, allowing users to prove identity assertions over multiple credentials
 
 In practice, zPass performs verifications in under Xms, setting a new standard for fast, privacy-preserving digital identity.
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="../demo.md" %}
-[demo.md](../demo.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../fundamentals/issue-credential/" %}
-[issue-credential](../../fundamentals/issue-credential/)
-{% endcontent-ref %}
-
-\
