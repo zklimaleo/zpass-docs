@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/Hero.png
-coverY: 151.85136501516683
+cover: ../../.gitbook/assets/zPass Hero.png
+coverY: 0
 layout:
   cover:
     visible: true
