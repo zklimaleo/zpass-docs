@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/System Actors.png
+cover: ../../.gitbook/assets/System Actors.png
 coverY: 0
 layout:
   cover:
@@ -19,26 +19,26 @@ layout:
 
 # System Actors
 
-### **Issuer**
+#### Issuer
 
 **Definition**
 
 The Issuer is the entity accountable for generating, hashing, and signing digital credentials.
 
-**Role and Responsibilities**
+**Role and Responsibilities:**
 
-_Credential Generation_: Creates a digital credential with required attributes like issuer address, subject address, date of birth (DOB), expiration date, etc.
+Credential Generation: Creates a digital credential with required attributes like issuer address, subject address, date of birth (DOB), expiration date, etc.
 
-_Hashing_: Applies cryptographic hash functions to the credential for data integrity.
+Hashing: Applies cryptographic hash functions to the credential for data integrity.
 
-_Signing_: Uses its private key to sign the hashed credential, ensuring its authenticity.
+Signing: Uses a private key to sign the hashed credential, ensuring its authenticity and source of issuance.
 
 **Issuer-Aleo Integration**
 
-1. Sign credentials and provide them as inputs to the Aleo program.
-2. Create an encrypted, tamper-proof record of identity on-chain.
+* Sign credentials and provide them as inputs to the Aleo program.
+* Create a tamper-proof record of identity on-chain.
 
-### Holder
+#### Holder
 
 **Definition**
 
@@ -54,11 +54,10 @@ The Holder receives and safely stores the issued credential on the Aleo network 
 
 **ZK-Proof Generation**
 
-1. Select the credential to use.
-2. Approve claim verifications
-3. Provide credentials as private inputs to Aleo programs, on their local device, to generate proof.
+1. Selects the credential to use for verification.
+2. Privately inputs the credential into a Leo program, on their local device, which generates a proof when executed.
 
-### Verifier
+**Verifier**
 
 **Definition**
 
@@ -66,7 +65,7 @@ Entity requiring verified proof for a specific claim from the Holder.
 
 **Role and Responsibilities**
 
-Claim Validation: Requests and verifies ZK-proofs to confirm the Holder's identity or specific claims.
+Claim Validation: Requests and verifies ZK proofs to confirm the Holder's identity or specific claims.
 
 **Request for Proof**
 
