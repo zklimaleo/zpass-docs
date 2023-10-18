@@ -27,4 +27,4 @@ In this paper, we present zPass, a protocol on the Aleo blockchain that uses zer
 * Anonymous credentials from existing identity documents, streamlining real-world adoption without requiring protocol changes.
 * Selective attribute disclosure for user privacy, allowing users to prove identity assertions over multiple credentials
 
-zPass performs is setting a new standard for fast, secure, and privacy-preserving digital identity.
+zPass is setting a new standard for fast, secure, and privacy-preserving digital identity.
