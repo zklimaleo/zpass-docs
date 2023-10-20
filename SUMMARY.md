@@ -23,7 +23,3 @@
 
 * [Off-chain](workflow/off-chain.md)
 * [On-chain](workflow/on-chain.md)
-
-## Deployment Guide
-
-* [Create-zPass-App](deployment-guide/create-zpass-app.md)
