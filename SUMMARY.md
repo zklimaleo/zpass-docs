@@ -10,7 +10,6 @@
   * [System Actors](overview/zpass/system-actors.md)
   * [Use Cases](overview/zpass/use-cases.md)
   * [Powered by Aleo](overview/zpass/powered-by-aleo.md)
-* [Demo](overview/demo.md)
 
 ## Fundamentals
 
