@@ -19,7 +19,7 @@ layout:
 
 # System Actors
 
-#### Issuer
+### Issuer
 
 **Definition**
 
@@ -38,7 +38,7 @@ Signing: Uses private key to sign the hashed credential, ensuring its authentici
 * Sign credentials and provide as inputs to the Aleo program.
 * Create a tamper-proof record of identity on-chain.
 
-#### Holder
+### Holder
 
 **Definition**
 
@@ -57,7 +57,7 @@ The Holder receives and safely stores the issued credential on the Aleo network 
 1. Selects a credential to use for verification.
 2. Privately inputs the credential into a Leo program, on their local device, which generates a proof when executed.
 
-**Verifier**
+### **Verifier**
 
 **Definition**
 
