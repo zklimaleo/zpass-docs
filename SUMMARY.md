@@ -16,7 +16,7 @@
 
 * [Issue Credential](fundamentals/issue-credential/README.md)
   * [Hash Types](fundamentals/issue-credential/hash-types.md)
-* [Proof Credential (WIP)](fundamentals/proof-credential-wip.md)
+  * [Aleo Program](fundamentals/issue-credential/aleo-program.md)
 * [Verify Credential](fundamentals/verify-credential.md)
 
 ## Workflow

@@ -25,36 +25,36 @@ layout:
 
 The Issuer is the entity accountable for generating, hashing, and signing digital credentials.
 
-**Role and Responsibilities:**
+**Role and responsibilities**
 
-Credential Generation: Creates a digital credential with required attributes like issuer address, subject address, date of birth (DOB), expiration date, etc.
+Credential generation: Creates a digital credential with required attributes like issuer address, subject address, date of birth (DOB), and expiration date.
 
 Hashing: Applies cryptographic hash functions to the credential for data integrity.
 
-Signing: Uses a private key to sign the hashed credential, ensuring its authenticity and source of issuance.
+Signing: Uses private key to sign the hashed credential, ensuring its authenticity and source of issuance.
 
-**Issuer-Aleo Integration**
+**Issuer–Aleo integration**
 
-* Sign credentials and provide them as inputs to the Aleo program.
+* Sign credentials and provide as inputs to the Aleo program.
 * Create a tamper-proof record of identity on-chain.
 
 #### Holder
 
 **Definition**
 
-The entity in possession of the signed digital credential, aiming to prove specific identity claims.
+Entity in possession of the signed digital credential, aiming to prove specific identity claims.
 
-**Role and Responsibilities**
+**Role and responsibilities**
 
-Identity Proofing: Utilizes the signed credential to assert identity or specific claims.
+Identity proofing: Utilizes the signed credential to assert identity or specific claims.
 
-**Record of Credential**
+**Record of credential**
 
 The Holder receives and safely stores the issued credential on the Aleo network as an encrypted record.
 
-**ZK-Proof Generation**
+**ZKP generation**
 
-1. Selects the credential to use for verification.
+1. Selects a credential to use for verification.
 2. Privately inputs the credential into a Leo program, on their local device, which generates a proof when executed.
 
 **Verifier**
@@ -63,15 +63,15 @@ The Holder receives and safely stores the issued credential on the Aleo network 
 
 Entity requiring verified proof for a specific claim from the Holder.
 
-**Role and Responsibilities**
+**Role and responsibilities**
 
-Claim Validation: Requests and verifies ZK proofs to confirm the Holder's identity or specific claims.
+Claim validation: Requests and verifies ZKP to confirm the Holder’s identity or specific claims.
 
-**Request for Proof**
+**Request for proof**
 
-Initiates a query to the Holder, requesting a ZK proof for a specific identity claim.
+Initiates a query to the Holder, requesting a ZKP for a specific identity claim.
 
-**Verification Workflow**
+**Verification workflow**
 
-1. Receives the ZK-proof from the Holder.
+1. Receives the ZKP from the Holder.
 2. Validates it using corresponding Aleo network protocols.
