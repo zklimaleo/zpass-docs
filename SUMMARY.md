@@ -4,12 +4,12 @@
 
 ## Overview
 
-* [zPass](overview/zpass-litepaper/README.md)
-  * [Background](overview/zpass-litepaper/background.md)
-  * [Technical Foundations](overview/zpass-litepaper/technical-foundations.md)
+* [zPass](overview/zpass/README.md)
+  * [Background](overview/zpass/background.md)
+  * [Technical Foundations](overview/zpass/technical-foundations.md)
   * [System Actors](overview/zpass/system-actors.md)
-  * [Use Cases](overview/zpass-litepaper/use-cases.md)
-  * [Powered by Aleo](overview/zpass-litepaper/powered-by-aleo.md)
+  * [Use Cases](overview/zpass/use-cases.md)
+  * [Powered by Aleo](overview/zpass/powered-by-aleo.md)
 * [Demo](overview/demo.md)
 
 ## Fundamentals
@@ -21,8 +21,8 @@
 
 ## Workflow
 
-* [Off-chain](overview/zpass/workflows/off-chain.md)
-* [On-chain](overview/zpass/workflows/on-chain.md)
+* [Off-chain](workflow/off-chain.md)
+* [On-chain](workflow/on-chain.md)
 
 ## Deployment Guide
 
