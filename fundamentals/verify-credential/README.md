@@ -12,5 +12,6 @@ layout:
     visible: true
 ---
 
-# Issue Credential
+# Verify Credential
 
+The execution proof and outputs can be verified without sacrificing the confidential information used to produce the proof.

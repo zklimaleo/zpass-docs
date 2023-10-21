@@ -13,10 +13,14 @@
 
 ## Fundamentals
 
+* [Generate Credential](fundamentals/generate-credential.md)
 * [Issue Credential](fundamentals/issue-credential/README.md)
   * [Hash Types](fundamentals/issue-credential/hash-types.md)
-  * [Aleo Program](fundamentals/issue-credential/aleo-program.md)
-* [Verify Credential](fundamentals/verify-credential.md)
+  * [On-Chain Issuance](fundamentals/issue-credential/on-chain-issuance.md)
+* [Verify Credential](fundamentals/verify-credential/README.md)
+  * [Off-Chain Verification](fundamentals/verify-credential/off-chain-verification.md)
+  * [On-Chain Verification](fundamentals/verify-credential/on-chain-verification.md)
+  * [Leo Programs](fundamentals/verify-credential/leo-programs.md)
 
 ## Workflow
 
