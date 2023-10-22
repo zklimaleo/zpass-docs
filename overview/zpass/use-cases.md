@@ -31,20 +31,20 @@ For global businesses, zPass streamlines nationality verification, ensuring comp
 
 **Traditional finance**: In KYC and AML domains, zPass sets a new benchmark by marrying trust with data privacy, surpassing standard compliance requisites.
 
-**Decentralized financ**e: As DeFi grows, zPass serves as a robust identity layer, ensuring transactions are both speedy and secure, meeting emerging regulatory requirements.
+**Decentralized finance**: As DeFi grows, zPass serves as a robust identity layer, ensuring transactions are both speedy and secure, meeting emerging regulatory requirements.
 
-### **Simplifying loan and credit approvals**
+### **Loan and credit approvals**
 
 In financial planning, zPass can expedite loan approvals and credit score checks, making these processes as quick as they are secure.
 
-### **Comprehensive proof of funds**
+### **Proof of funds**
 
 Whether you’re an investor or a homebuyer, zPass could revolutionize proof-of-funds processes, providing rapid, reliable verification while safeguarding sensitive financial data.
 
-### **Reinforcing healthcare privacy**
+### **Healthcare privacy**
 
 In the US, zPass could reinforce HIPAA compliance by offering “need-to-know” access to medical records, and limiting data exposure to authorized individuals only.
 
-### **Academic integrity and fast-track approvals**
+### **Academic Verification**
 
 From verifying educational transcripts to authenticating diplomas, zPass brings enhanced integrity and trust to the educational ecosystem and job application domain.\
