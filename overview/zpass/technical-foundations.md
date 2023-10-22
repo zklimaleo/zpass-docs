@@ -19,11 +19,11 @@ layout:
 
 # Technical Foundations
 
-#### Core mechanics
+### Core mechanics
 
 The backbone of zPass relies on zero-knowledge proofs and, more specifically, zk-SNARKS. The shift to general-purpose zero-knowledge proofs ensures greater privacy and programmability than traditional identity verification systems. Aleo’s infrastructure is secure and scalable, providing a strong foundation for zPass.
 
-#### Aleo and zero-knowledge proofs
+### Aleo and zero-knowledge proofs
 
 zPass is powered by Aleo, a developer platform extending the capabilities of traditional blockchains using the concept of the Zero-Knowledge Execution Environment (ZEXE) model.
 
