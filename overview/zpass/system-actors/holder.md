@@ -1,18 +1,6 @@
 # Holder
 
-The Holder is the subject of the claims, represented by attributes that exist within credentials. The ability to independently validate these credentials directly correlates with greater autonomy in controlling access to this information.
 
-
-
-**`Attribute → Credential → Holder`**
-
-`Age`` `**`→`**` ``Driver's License`` `**`→`**`  ``You`
-
-`Academic Degree`` `**`→`**` ``Diploma`` `**`→`**` ``You`
-
-`Credit score`` `**`→`**` ``Credit Report`` `**`→`**` ``You`
-
-`Nationality`` `**`→`**` ``Passport`` `**`→`**` ``You`
 
 
 
