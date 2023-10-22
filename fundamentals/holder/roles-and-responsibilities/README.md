@@ -1,12 +1,20 @@
-# Holder
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
+# Roles and responsibilities
 
-
-
-
-**Role and responsibilities**
-
-Identity proofing: Utilizes the signed credential to assert identity or specific claims.
+**Identity proofing:** Utilizes the signed credential to assert identity or specific claims.
 
 **Record of credential**
 

@@ -1,6 +1,18 @@
-# Verifier
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-**Role and responsibilities**
+# Role and responsibilities
 
 Claim validation: Requests and verifies ZKP to confirm the Holder’s identity or specific claims.
 

@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Role and responsibilities
 
 **Credential generation**: Creates a digital credential with required attributes like issuer address, subject address, date of birth (DOB), and expiration date.
