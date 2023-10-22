@@ -1,6 +1,18 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Generate Credential
-
-
 
 <details>
 
@@ -62,4 +74,4 @@ fn create_credential_with_addresses_and_fields(payload: Credential) -> Result<Va
 
 ### Attributes
 
-<table><thead><tr><th width="162">Name</th><th width="291">Rust</th><th>Leo</th></tr></thead><tbody><tr><td>Issuer</td><td></td><td></td></tr><tr><td>Subject</td><td></td><td></td></tr><tr><td>Date of Birth</td><td></td><td></td></tr><tr><td>Nationality</td><td></td><td></td></tr><tr><td>Expiration</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="190">Attribute</th><th width="291">Definition</th><th>Structure</th></tr></thead><tbody><tr><td>Issuer</td><td></td><td></td></tr><tr><td>Subject</td><td></td><td></td></tr><tr><td>Date of Birth</td><td></td><td></td></tr><tr><td>Nationality</td><td></td><td></td></tr><tr><td>Expiration</td><td></td><td></td></tr></tbody></table>
