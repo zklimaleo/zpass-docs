@@ -1,10 +1,20 @@
 # Holder
 
-### Holder
+The Holder is the subject of the claims, represented by attributes that exist within credentials. The ability to independently validate these credentials directly correlates with greater autonomy in controlling access to this information.
 
-**Definition**
 
-Entity in possession of the signed digital credential, aiming to prove specific identity claims.
+
+**`Attribute → Credential → Holder`**
+
+`Age`` `**`→`**` ``Driver's License`` `**`→`**`  ``You`
+
+`Academic Degree`` `**`→`**` ``Diploma`` `**`→`**` ``You`
+
+`Credit score`` `**`→`**` ``Credit Report`` `**`→`**` ``You`
+
+`Nationality`` `**`→`**` ``Passport`` `**`→`**` ``You`
+
+
 
 **Role and responsibilities**
 

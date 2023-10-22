@@ -19,44 +19,10 @@ layout:
 
 # System Actors
 
-## Issuer
+In zPass, trust and control pivot around three main players: the Issuer, the Holder, and the Verifier.&#x20;
 
-The Issuer is the trusted entity that issues credentials to substantiate identity claims. The information on a credential is important, but it only truly counts when it's backed up by a trusted authority.
+The Issuer creates digitally signed credentials to establish a foundation of trust.&#x20;
 
-#### `Issuer → Credential → Claim`
+Holders securely store these credentials and utilize zero-knowledge proofs to selectively substantiate their claims, increasing their autonomy.&#x20;
 
-`Local government`` `**`→`**` ``Driver’s license`` `**`→`**` ``Age`
-
-`School`` `**`→`**` ``Diploma`` `**`→`**` ``Academic Degree`
-
-`Financial bureau`` `**`→`**` ``Credit report`` `**`→`**` ``Credit score`&#x20;
-
-`Country`` `**`→`**` ``Passport`` `**`→`**` ``Nationality`
-
-## Holder
-
-The Holder is the subject of the claims, represented by attributes that exist within credentials. The ability to independently validate these credentials directly correlates with greater autonomy in controlling access to this information.
-
-**`Attribute → Credential → Holder`**
-
-`Age`` `**`→`**` ``Driver's License`` `**`→`**`  ``You`
-
-`Academic Degree`` `**`→`**` ``Diploma`` `**`→`**` ``You`
-
-`Credit score`` `**`→`**` ``Credit Report`` `**`→`**` ``You`
-
-`Nationality`` `**`→`**` ``Passport`` `**`→`**` ``You`
-
-## Verifier
-
-The Verifier offers a service and mandates that the user meets specific attribute requirements through credential verification. The focus is on authenticating user identity or claims to decide on service access.
-
-**`Required Attribute → Verification Method → Verifier Service`**
-
-`Age`` `**`→`**` ``Driver's License Check`` `**`→`**` ``Verifier Service`
-
-`Academic Degree`` `**`→`**` ``Diploma Verification`` `**`→`**` ``Verifier Service`
-
-`Credit score`` `**`→`**` ``Credit Report Review`` `**`→`**` ``Verifier Service`
-
-`Nationality`` `**`→`**` ``Passport Scan`` `**`→`**` ``Verifier Service`
+Verifiers serve as custodians of access, leveraging zero-knowledge proofs to assess eligibility without requiring exposure to sensitive personal information.

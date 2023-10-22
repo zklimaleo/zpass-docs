@@ -27,7 +27,7 @@ layout:
 
 **Fast verification**: Aleo’s design allows these proofs to be quickly verified by third parties, making the process both fast and secure.
 
-### Benefits
+## Benefits
 
 **Security**: Decentralization through Aleo’s blockchain eliminates single points of failure and minimizes the risk of mass data breaches.
 

@@ -1,10 +1,18 @@
 # Verifier
 
-### **Verifier**
+The Verifier offers a service and mandates that the user meets specific attribute requirements through credential verification. The focus is on authenticating user identity or claims to decide on service access.
 
-**Definition**
+**`Required Attribute → Verification Method → Verifier Service`**
 
-Entity requiring verified proof for a specific claim from the Holder.
+`Age`` `**`→`**` ``Driver's License Check`` `**`→`**` ``Verifier Service`
+
+`Academic Degree`` `**`→`**` ``Diploma Verification`` `**`→`**` ``Verifier Service`
+
+`Credit score`` `**`→`**` ``Credit Report Review`` `**`→`**` ``Verifier Service`
+
+`Nationality`` `**`→`**` ``Passport Scan`` `**`→`**` ``Verifier Service`
+
+
 
 **Role and responsibilities**
 

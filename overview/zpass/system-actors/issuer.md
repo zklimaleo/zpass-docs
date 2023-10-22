@@ -1,10 +1,16 @@
 # Issuer
 
-### Issuer
+The Issuer is the trusted entity that issues credentials to substantiate identity claims. The information on a credential is important, but it only truly counts when it's backed up by a trusted authority.
 
-**Definition**
+#### `Issuer → Credential → Claim`
 
-The Issuer is the entity accountable for generating, hashing, and signing digital credentials.
+`Local government`` `**`→`**` ``Driver’s license`` `**`→`**` ``Age`
+
+`School`` `**`→`**` ``Diploma`` `**`→`**` ``Academic Degree`
+
+`Financial bureau`` `**`→`**` ``Credit report`` `**`→`**` ``Credit score`&#x20;
+
+`Country`` `**`→`**` ``Passport`` `**`→`**` ``Nationality`
 
 **Role and responsibilities**
 

@@ -22,6 +22,9 @@
   * [Off-Chain Verification](fundamentals/verify-credential/off-chain-verification.md)
   * [On-Chain Verification](fundamentals/verify-credential/on-chain-verification.md)
   * [Leo Programs](fundamentals/verify-credential/leo-programs.md)
+* [Issuer](fundamentals/issuer.md)
+* [Holder](fundamentals/holder.md)
+* [Verifier](fundamentals/verifier.md)
 
 ## Workflow
 
