@@ -5,7 +5,7 @@
 * [zPass](README.md)
   * [Background](overview/zpass/background.md)
   * [Technical Foundations](overview/zpass/technical-foundations.md)
-  * [System Actors](overview/zpass/system-actors/README.md)
+  * [System Actors](overview/zpass/system-actors.md)
     * [Issuer](overview/zpass/system-actors/issuer.md)
     * [Holder](overview/zpass/system-actors/holder.md)
     * [Verifier](overview/zpass/system-actors/verifier.md)

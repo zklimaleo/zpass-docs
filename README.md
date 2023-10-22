@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/zPass Hero.png
+cover: .gitbook/assets/zPass Hero.png
 coverY: 0
 layout:
   cover:
