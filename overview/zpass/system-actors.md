@@ -21,7 +21,7 @@ layout:
 
 ## Issuer
 
-The Issuer is the trusted entity that issues credentials to substantiate identity claims. The information on a credential is important, but it only truly counts when it's backed up by a trusted authority.
+The Issuer is the trusted entity that substantiates identity claims by issuing credentials. The information on a credential is important, but it only truly counts when it's backed up by a trusted authority.
 
 #### `Issuer → Credential → Claim`
 
