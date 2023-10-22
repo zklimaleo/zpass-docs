@@ -35,7 +35,7 @@ The Issuer is the trusted entity that substantiates identity claims by issuing c
 
 ## Holder
 
-The Holder is the subject of the credentials, the person whose identity, or other claims, are being verified. The ability to independently validate these credentials directly correlates with greater autonomy in controlling access to this information.
+The Holder is the subject of the claims, represented by attributes that exist within credentials. The ability to independently validate these credentials directly correlates with greater autonomy in controlling access to this information.
 
 **`Attribute → Credential → Holder`**
 
