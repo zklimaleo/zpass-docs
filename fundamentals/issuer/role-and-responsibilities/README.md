@@ -1,6 +1,4 @@
-# Issuer
-
-**Role and responsibilities**
+# Role and responsibilities
 
 **Credential generation**: Creates a digital credential with required attributes like issuer address, subject address, date of birth (DOB), and expiration date.
 
