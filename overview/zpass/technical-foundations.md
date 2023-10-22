@@ -25,7 +25,7 @@ The backbone of zPass relies on zero-knowledge proofs and, more specifically, zk
 
 #### Aleo and zero-knowledge proofs
 
-zPass is powered by Aleo, a developer platform extending the capabilities of traditional blockchains using the concept of ZEXE.
+zPass is powered by Aleo, a developer platform extending the capabilities of traditional blockchains using the concept of the Zero-Knowledge Execution Environment (ZEXE) model.
 
 **Aleo’s role in privacy**
 

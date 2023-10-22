@@ -1,13 +1,14 @@
 # Table of contents
 
-* [Welcome to zPass](README.md)
-
 ## Overview
 
-* [zPass](overview/zpass/README.md)
+* [zPass](README.md)
   * [Background](overview/zpass/background.md)
   * [Technical Foundations](overview/zpass/technical-foundations.md)
-  * [System Actors](overview/zpass/system-actors.md)
+  * [System Actors](overview/zpass/system-actors/README.md)
+    * [Issuer](overview/zpass/system-actors/issuer.md)
+    * [Holder](overview/zpass/system-actors/holder.md)
+    * [Verifier](overview/zpass/system-actors/verifier.md)
   * [Use Cases](overview/zpass/use-cases.md)
   * [Powered by Aleo](overview/zpass/powered-by-aleo.md)
 
