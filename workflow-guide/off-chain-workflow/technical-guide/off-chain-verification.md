@@ -14,8 +14,6 @@ layout:
 
 # Off-Chain Verification
 
-The execution proof and outputs can be verified without sacrificing the confidential information used to produce the proof.
-
 ```javascript
 // Import required modules from Aleo SDK.
 import { 
