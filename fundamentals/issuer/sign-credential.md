@@ -14,6 +14,35 @@ layout:
 
 # Sign Credential
 
+### Overview
+
+This provides an explanation of how to use the `sign_message_with_private_key` function to sign a message using a private key and a random number generator in a Rust environment. The function returns either a generated signature and nonce or an error message.
+
+### Function Signature
+
+Here's the function definition:
+
+```rust
+sign_message_with_private_key(
+    private_key: &PrivateKey<Testnet3>, 
+    message: &[Field<Testnet3>], 
+    rng: &mut TestRng
+) -> Result<(Signature<Testnet3>, Scalar<Testnet3>), String>;
+```
+
+#### Parameters:
+
+* **private\_key**: A reference to the private key used for signing. It's of type `PrivateKey<Testnet3>`.
+* **message**: An array slice of message elements, each being of type `Field<Testnet3>`.
+* **rng**: A mutable reference to a random number generator (`TestRng`) for cryptographic operations.
+
+#### Returns:
+
+A `Result` containing either:
+
+* A tuple of the generated signature (`Signature<Testnet3>`) and a nonce (`Scalar<Testnet3>`), or
+* An error message (`String`) indicating the failure.
+
 <details>
 
 <summary>Sign Credential</summary>

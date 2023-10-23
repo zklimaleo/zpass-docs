@@ -14,9 +14,36 @@ layout:
 
 # Generate Credential
 
+### Overview
+
+The tutorial aims to guide you through the use of the `generate_message_with_addresses_and_fields` function. This function takes a `Credential` payload and returns a `Value<Testnet3>` wrapped in Rust's `Result` type.
+
+### Function Signature
+
+Here's the function definition:
+
+```rust
+rustCopy codepub(crate) fn generate_message_with_addresses_and_fields(payload: Credential) -> Result<Value<Testnet3>, anyhow::Error>;
+```
+
+#### Parameters:
+
+* **payload**: An instance of a `Credential` struct containing various fields like issuer, subject, date of birth (dob), nationality, and expiry.
+
+#### Returns:
+
+A `Result` containing:
+
+* A `Value<Testnet3>` object, or
+* An error of type `anyhow::Error` if the operation fails.
+
+### Attributes
+
+<table><thead><tr><th width="190">Attribute</th><th width="550">Definition</th></tr></thead><tbody><tr><td>Issuer</td><td>Issuing authority public address<br><em>ex. Aleo Address of the credential Issuer.</em></td></tr><tr><td>Subject</td><td><p>Holder public address</p><p><em>ex. Aleo Address of the credential Holder.</em></p></td></tr><tr><td>Date of Birth</td><td>Attribute value represented as a field.</td></tr><tr><td>Nationality</td><td>Attribute value encoded from a string and represented as a field.</td></tr><tr><td>Expiration</td><td>Attribute value represented as a field.</td></tr></tbody></table>
+
 <details>
 
-<summary>Add Attributes to Credential</summary>
+<summary>Generate Credential</summary>
 
 {% code overflow="wrap" %}
 ```rust
@@ -71,7 +98,3 @@ fn create_credential_with_addresses_and_fields(payload: Credential) -> Result<Va
 {% endcode %}
 
 </details>
-
-### Attributes
-
-<table><thead><tr><th width="190">Attribute</th><th width="550">Definition</th></tr></thead><tbody><tr><td>Issuer</td><td><em>For the Demo</em>: Aleo Address of the credential Issuer.</td></tr><tr><td>Subject</td><td><em>For the Demo</em>: Aleo Address of the credential Holder.</td></tr><tr><td>Date of Birth</td><td>Attribute value represented as a field.</td></tr><tr><td>Nationality</td><td>Attribute value encoded from a string and represented as a field.</td></tr><tr><td>Expiration</td><td>Attribute value represented as a field.</td></tr></tbody></table>
