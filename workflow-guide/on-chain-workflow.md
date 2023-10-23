@@ -22,6 +22,6 @@ Let's break it down into three main sections:
 
 1. **Credential Generation (Off-chain)**
 2. **Credential Issuance (On-chain)**
-3. **Holder Presentation and Aleo Verification (On-chain)**
+3. **Holder Presentation and Verification (On-chain)**
 
 The on-chain flow offers a path to ensure **permissionless** privacy and trust on Aleo's Blockchain.
