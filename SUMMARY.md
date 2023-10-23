@@ -1,13 +1,13 @@
 # Table of contents
 
-## Overview
+## zPass
 
-* [zPass](README.md)
-  * [Background](overview/zpass/background.md)
-  * [Technical Foundations](overview/zpass/technical-foundations.md)
-  * [System Actors](overview/zpass/system-actors.md)
-  * [Use Cases](overview/zpass/use-cases.md)
-  * [Powered by Aleo](overview/zpass/powered-by-aleo.md)
+* [Overview](README.md)
+* [Background](zpass/background.md)
+* [Technical Foundations](zpass/technical-foundations.md)
+* [System Actors](zpass/system-actors.md)
+* [Use Cases](zpass/use-cases.md)
+* [Powered by Aleo](zpass/powered-by-aleo.md)
 
 ## Fundamentals
 
