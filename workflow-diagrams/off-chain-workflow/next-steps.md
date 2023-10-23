@@ -22,8 +22,9 @@ By integrating Aleo into your application, you can ensure privacy-preserving ver
 
 ### **Next Steps**
 
-Continue reading the docs for the On-chain Flow.
+Visit **zPass.tools.aleo.org** for a live example of this demo!
 
 **or**
 
-Visit **zPass.tools.aleo.org** for a live example of this demo!
+Continue reading the docs for the On-chain Workflow...
+

@@ -35,5 +35,5 @@
     * [offchain\_verifier2.aleo (SHA)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier2.aleo-sha.md)
     * [offchain\_verifier3.aleo (BHP)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier3.aleo-bhp1024.md)
     * [offchain\_verifier4.aleo (Poseidon)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier4.aleo-poseidon.md)
-  * [Up Next](workflow-diagrams/off-chain-workflow/up-next.md)
+  * [Up Next](workflow-diagrams/off-chain-workflow/next-steps.md)
 * [On-chain Workflow](workflow-diagrams/on-chain-workflow.md)
