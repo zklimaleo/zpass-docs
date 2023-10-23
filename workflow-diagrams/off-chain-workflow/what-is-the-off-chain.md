@@ -1,6 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # What is the Off-Chain?
 
-### **Incorporating External Credentials into zPass**
+## **Incorporating External Credentials into zPass**
 
 The off-chain flow refers to the operations that occur outside the Aleo blockchain. These operations, can either be initiated and completed off-chain or even have their beginnings outside the Aleo ecosystem altogether.
 
