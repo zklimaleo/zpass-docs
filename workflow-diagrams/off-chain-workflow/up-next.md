@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Next Steps
+# Up Next
 
 ### Off-chain Workflow Conclusion
 
@@ -20,7 +20,7 @@ This guide walked you through a foundational understanding of the off-chain work
 
 By integrating Aleo into your application, you can ensure privacy-preserving verification of credentials. The Holder retains control, the Verifier can check credentials without compromising privacy, and the Issuer provides a trusted foundation.
 
-### **What's Next?**
+### **Next Steps**
 
 Continue reading the docs for the On-chain Flow.
 
