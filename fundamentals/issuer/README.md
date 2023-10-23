@@ -24,5 +24,6 @@ layout:
 
 **Issuer–Aleo integration**
 
-* Sign credentials and provide as inputs to the Aleo program.
-* Create a tamper-proof record of identity on-chain.
+* Sign credentials and provide them to the user.
+* Sign credentials and provide them as inputs to an Aleo program&#x20;
+  * Creates an encrypted tamper-proof record of the credential on-chain.

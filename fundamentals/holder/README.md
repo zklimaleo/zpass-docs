@@ -20,9 +20,11 @@ layout:
 
 **Record of credential**
 
-The Holder receives and safely stores the issued credential on the Aleo network as an encrypted record.
+The Holder receives an issued credential, for on-chain flow, the credential is provided on the Aleo network as an encrypted record.
 
 **ZKP generation**
 
-1. Selects a credential to use for verification.
-2. Privately inputs the credential into a Leo program, on their local device, which generates a proof when executed.
+* Authorizes a credential to use for verification.
+* Privately inputs the credential into an Aleo program.
+  * Executes program using wasm on their local device.
+  * Generates program output and an execution proof.
