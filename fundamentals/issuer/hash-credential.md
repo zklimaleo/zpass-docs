@@ -18,15 +18,20 @@ layout:
 
 <summary>Hash Credential</summary>
 
+{% code overflow="wrap" %}
 ```rust
-/// Creates a hash based on the input message and the specified hash algorithm.
+/// Creates a hash based on the input message and the specified hash 
+/// algorithm.
 ///
 /// # Parameters
-/// - `message`: The message to be hashed, represented as an array slice of `Field<Testnet3>` objects.
-/// - `algorithm`: The hash algorithm to use for hashing. Currently supports only POSEIDON2.
+/// - `message`: The message to be hashed, represented as an array slice of
+/// `Field<Testnet3>` objects.
+///
+/// - `algorithm`: The hash algorithm to use for hashing. Currently supports /// only POSEIDON2.
 ///
 /// # Returns
-/// Returns a `Result` containing the hash as `Field<Testnet3>` if successful, or an error message otherwise.
+/// Returns a `Result` containing the hash as `Field<Testnet3>` if 
+/// successful, or an error message otherwise.
 fn create_hash(message: &[Field<Testnet3>], algorithm: HashAlgorithm) -> Result<Field<Testnet3>, String> {
     
     // Initialize variable 'hash' to store the resulting hash value
@@ -45,6 +50,7 @@ fn create_hash(message: &[Field<Testnet3>], algorithm: HashAlgorithm) -> Result<
     Ok(hash)
 }
 ```
+{% endcode %}
 
 </details>
 
