@@ -74,4 +74,4 @@ fn create_credential_with_addresses_and_fields(payload: Credential) -> Result<Va
 
 ### Attributes
 
-<table><thead><tr><th width="190">Attribute</th><th width="291">Definition</th><th>Structure</th></tr></thead><tbody><tr><td>Issuer</td><td></td><td></td></tr><tr><td>Subject</td><td></td><td></td></tr><tr><td>Date of Birth</td><td></td><td></td></tr><tr><td>Nationality</td><td></td><td></td></tr><tr><td>Expiration</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="190">Attribute</th><th width="550">Definition</th></tr></thead><tbody><tr><td>Issuer</td><td><em>For the Demo</em>: Aleo Address of the credential Issuer.</td></tr><tr><td>Subject</td><td><em>For the Demo</em>: Aleo Address of the credential Holder.</td></tr><tr><td>Date of Birth</td><td>Attribute value represented as a field.</td></tr><tr><td>Nationality</td><td>Attribute value encoded from a string and represented as a field.</td></tr><tr><td>Expiration</td><td>Attribute value represented as a field.</td></tr></tbody></table>
