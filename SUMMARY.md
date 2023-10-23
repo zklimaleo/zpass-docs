@@ -33,7 +33,7 @@
   * [Technical Guide](workflow-diagrams/off-chain-workflow/technical-guide/README.md)
     * [offchain\_verifier1.aleo (Keccak)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier1.aleo-keccak.md)
     * [offchain\_verifier2.aleo (SHA)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier2.aleo-sha.md)
-    * [offchain\_verifier3.aleo (BHP1024)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier3.aleo-bhp1024.md)
+    * [offchain\_verifier3.aleo (BHP)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier3.aleo-bhp.md)
     * [offchain\_verifier4.aleo (Poseidon)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier4.aleo-poseidon.md)
   * [Next Steps](workflow-diagrams/off-chain-workflow/next-steps.md)
 * [On-chain Workflow](workflow-diagrams/on-chain-workflow.md)
