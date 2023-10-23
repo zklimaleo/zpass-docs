@@ -25,15 +25,15 @@
     * [Leo Programs](fundamentals/verifier/on-chain-verification/leo-programs.md)
   * [Off-Chain Verification](fundamentals/verifier/off-chain-verification.md)
 
-## Workflow Diagrams
+## Workflow Guide
 
-* [Off-chain Workflow](workflow-diagrams/off-chain-workflow/README.md)
-  * [What is the Off-Chain Flow?](workflow-diagrams/off-chain-workflow/what-is-the-off-chain-flow.md)
-  * [Trustless Ecosystem with WASM](workflow-diagrams/off-chain-workflow/trustless-ecosystem-with-wasm.md)
-  * [Technical Guide](workflow-diagrams/off-chain-workflow/technical-guide/README.md)
-    * [offchain\_verifier1.aleo (Keccak)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier1.aleo-keccak.md)
-    * [offchain\_verifier2.aleo (SHA)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier2.aleo-sha.md)
-    * [offchain\_verifier3.aleo (BHP)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier3.aleo-bhp1024.md)
-    * [offchain\_verifier4.aleo (Poseidon)](workflow-diagrams/off-chain-workflow/technical-guide/offchain\_verifier4.aleo-poseidon.md)
-  * [Up Next](workflow-diagrams/off-chain-workflow/next-steps.md)
-* [On-chain Workflow](workflow-diagrams/on-chain-workflow.md)
+* [Off-chain Workflow](workflow-guide/off-chain-workflow/README.md)
+  * [What is the Off-Chain Flow?](workflow-guide/off-chain-workflow/what-is-the-off-chain-flow.md)
+  * [Trustless Ecosystem with WASM](workflow-guide/off-chain-workflow/trustless-ecosystem-with-wasm.md)
+  * [Technical Guide](workflow-guide/off-chain-workflow/technical-guide/README.md)
+    * [offchain\_verifier1.aleo (Keccak)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier1.aleo-keccak.md)
+    * [offchain\_verifier2.aleo (SHA)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier2.aleo-sha.md)
+    * [offchain\_verifier3.aleo (BHP)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier3.aleo-bhp.md)
+    * [offchain\_verifier4.aleo (Poseidon)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier4.aleo-poseidon.md)
+  * [Up Next](workflow-guide/off-chain-workflow/up-next.md)
+* [On-chain Workflow](workflow-guide/on-chain-workflow.md)
