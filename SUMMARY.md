@@ -28,8 +28,7 @@
 ## Workflow Diagrams
 
 * [Off-chain Workflow](workflow-diagrams/off-chain-workflow/README.md)
-  * [What is the Off-Chain?](workflow-diagrams/off-chain-workflow/what-is-the-off-chain.md)
-  * [Journey of an Off-Chain Credential](workflow-diagrams/off-chain-workflow/journey-of-an-off-chain-credential.md)
+  * [What is the Off-Chain Flow?](workflow-diagrams/off-chain-workflow/what-is-the-off-chain-flow.md)
   * [Privacy and Security with WASM](workflow-diagrams/off-chain-workflow/privacy-and-security-with-wasm.md)
   * [Technical Guide](workflow-diagrams/off-chain-workflow/technical-guide.md)
   * [Conclusion](workflow-diagrams/off-chain-workflow/conclusion.md)
