@@ -28,7 +28,7 @@
 ## Workflow Guide
 
 * [Off-chain Workflow](workflow-guide/off-chain-workflow/README.md)
-  * [What is the Off-Chain Flow?](workflow-guide/off-chain-workflow/what-is-the-off-chain-flow.md)
+  * [What is the Off-Chain?](workflow-guide/off-chain-workflow/what-is-the-off-chain.md)
   * [Trustless Ecosystem with WASM](workflow-guide/off-chain-workflow/trustless-ecosystem-with-wasm.md)
   * [Technical Guide](workflow-guide/off-chain-workflow/technical-guide/README.md)
     * [offchain\_verifier1.aleo (Keccak)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier1.aleo-keccak.md)
