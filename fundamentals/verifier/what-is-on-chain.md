@@ -20,10 +20,5 @@ The on-chain flow in the Aleo ecosystem focuses on interactions that occur direc
 
 ## On-chain Process
 
-### Credential Issuance (On-chain)
-
-Credentials are fed as inputs into Aleo programs, also known as issuance programs. These programs act as trusted authorities for generating the digital equivalents of the real-world credentials, known as a zPass. The issuance process includes cryptographic validation of the credential against its digital signature and the Issuer's public key. Successful validation results in the issuance of a zPass, which is committed to the Aleo blockchain. The recipient of the zPass is termed the "Holder."
-
-### Holder Presentation and Verification (On-chain)
-
-Once a zPass is issued and stored on-chain, the Holder can use it for various transactions within the Aleo ecosystem. Aleo programs verify specific claims against the presented zPass, ensuring privacy, data integrity, and establishing trust.
+1. **Credential Issuance (On-chain):** Credentials are fed as inputs into Aleo programs, also known as issuance programs. These programs act as trusted authorities for generating the digital equivalents of the real-world credentials, known as a zPass. The issuance process includes cryptographic validation of the credential against its digital signature and the Issuer's public key. Successful validation results in the issuance of a zPass, which is committed to the Aleo blockchain. The recipient of the zPass is termed the "Holder."
+2. **Holder Presentation and Verification (On-chain)**: Once a zPass is issued and stored on-chain, the Holder can use it for various transactions within the Aleo ecosystem. Aleo programs verify specific claims against the presented zPass, ensuring privacy, data integrity, and establishing trust.
