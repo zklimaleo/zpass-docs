@@ -16,14 +16,17 @@ layout:
 
 ### Getting Started with Aleo
 
-Before diving into the code, initialize the Aleo SDK:
+Before diving into the code, initialize the Aleo SDK. This allows you to work with Aleo's functions in your application.
 
 ```jsx
 import * as aleo from "@aleohq/sdk";
 await aleo.initializeWasm();
 ```
 
-This allows you to work with Aleo's functions in your application.
+**Explanation**:
+
+* **@aleohq/sdk**: This is the Software Development Kit (SDK) provided by Aleo. It contains all the essential functions to initialize and interact with Aleo's ecosystem.
+* **initializeWasm()**: Initializes the WebAssembly (Wasm) environment, enabling fast and secure execution of code.
 
 ### Establishing Connection to Aleo VM
 
@@ -39,6 +42,15 @@ const programManager = new aleo.ProgramManager(
 );
 ```
 
+**Explanation**:
+
+* **AleoKeyProvider()**: A utility to manage the keys used in the process.
+* **ProgramManager()**: Helps in managing the program's lifecycle.
+
+**Credential Structure and Verification Programs**
+
+Credentials often contain attributes. Here, we have a structure named `Message`, which contains attributes like issuer address, subject address, date of birth, nationality, and expiry date. Below are Aleo programs for different hashing methods (keccak, sha3, bhp1024, and poseidon2):
+
 ### Creating Credentials
 
 Our demo will involve generating a credential off-chain:
@@ -46,15 +58,15 @@ Our demo will involve generating a credential off-chain:
 #### Structure of the Credential:
 
 ```
-struct Message:
+struct Credential:
     issuer (the Issuer's address)
     subject (the Holder's address)
     dob (Date of Birth)
-    nationality
+    nationality (Country of Origin)
     expiry (Expiration date of the credential)
 ```
 
-In real-world scenarios, a Holder might receive a credential like a passport from an Issuer. This passport could be verified through its native signature, proving its authenticity.
+_**In real-world scenarios, a Holder might receive a credential like a passport from an Issuer. This passport could be verified through its native signature, proving its authenticity.**_
 
 ### Verifying Credentials
 
