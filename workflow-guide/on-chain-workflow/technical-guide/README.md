@@ -19,7 +19,7 @@ layout:
 **Initialize the Aleo Environment**
 
 ```jsx
-jsxCopy codeimport * as aleo from "@aleohq/sdk";
+import * as aleo from "@aleohq/sdk";
 
 await aleo.initializeWasm();
 
@@ -41,7 +41,7 @@ keyProvider.useCache(true);
 Create a credential with essential attributes:
 
 ```jsx
-jsxCopy codeconst credential = {
+const credential = {
   issuerAddress: "issuer_public_key",
   subjectAddress: "subject_public_key",
   attribute: "date_of_birth",
@@ -52,7 +52,7 @@ jsxCopy codeconst credential = {
 ### **On-Chain Verification through Issuer Program**
 
 ```jsx
-jsxCopy codeconst issuerProgram = await programManager.loadProgram("path/to/issuer_program.aleo");
+const issuerProgram = await programManager.loadProgram("path/to/issuer_program.aleo");
 const issuerOutput = await issuerProgram.execute(credential);
 
 // Create a transaction with execution proof and issuerOutput
@@ -75,10 +75,8 @@ await aleo.submitTransaction(transaction);
 At this point, the user has a verified credential (zPass) on-chain and can interact with various Verifier Programs.
 
 ```jsx
-jsxCopy codeconst verifierProgram = await programManager.loadProgram("path/to/verifier_program.aleo");
+const verifierProgram = await programManager.loadProgram("path/to/verifier_program.aleo");
 const proof = await verifierProgram.execute(zpassRecord);
-
-// Use proof as needed
 ```
 
 **Explanation**:
@@ -91,6 +89,6 @@ const proof = await verifierProgram.execute(zpassRecord);
 #### Key Benefits:
 
 * **Permissionless Identity Issuance**: Allows users to present credentials issued off-chain by any entity.
-* **Verifiable Records**: zPass, the on-chain record, is a verified credential with an execution proof, enhancing trust.
+* **Verifiable Records**: zPass, the on-chain record, is a verified credential with execution proof.
 * **User Autonomy**: Users retain control over their on-chain zPass records.
 * **Privacy-Preserving Verification**: Users can interact with Verifier Programs without exposing their credentials, using the blockchain for permissionless private identity verification.
