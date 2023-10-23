@@ -6,7 +6,7 @@
 * [Background](zpass/background.md)
 * [Benefits & Use Cases](zpass/benefits-and-use-cases.md)
 * [Technical Foundations](zpass/technical-foundations.md)
-* [System Actors](zpass/system-actors.md)
+* [System Architecture & Participants](zpass/system-architecture-and-participants.md)
 * [Powered by Aleo](zpass/powered-by-aleo.md)
 
 ## Fundamentals

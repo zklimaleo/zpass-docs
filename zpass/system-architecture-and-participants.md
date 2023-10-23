@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/System Actors.png
+cover: ../.gitbook/assets/System Actors.png
 coverY: 0
 layout:
   cover:
@@ -17,13 +17,11 @@ layout:
     visible: true
 ---
 
-# System Actors
+# System Architecture & Participants
 
-&#x20;**The Issuer** creates digitally signed credentials to establish a foundation of trust.&#x20;
 
-**The Holder** securely stores these credentials and utilizes zero-knowledge proofs to selectively substantiate their claims, increasing their autonomy.&#x20;
 
-**The Verifier** serves as the custodian of access, leveraging zero-knowledge proofs to assess eligibility without requiring exposure to sensitive personal information.
+<figure><img src="../.gitbook/assets/Chart2.png" alt=""><figcaption></figcaption></figure>
 
 ## Issuer
 
