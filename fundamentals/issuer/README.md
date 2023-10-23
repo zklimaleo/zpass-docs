@@ -26,4 +26,4 @@ layout:
 
 * Sign credentials and provide them to the user.
 * Sign credentials and provide them as inputs to an Aleo program&#x20;
-  * Creates an encrypted tamper-proof record of the credential on-chain.
+  * Create an encrypted tamper-proof record of the credential on-chain.

@@ -24,7 +24,7 @@ The Holder receives an issued credential, for on-chain flow, the credential is p
 
 **ZKP generation**
 
-* Authorizes a credential to use for verification.
-* Privately inputs the credential into an Aleo program.
-  * Executes program using wasm on their local device.
-  * Generates program output and an execution proof.
+* Authorize a credential to use for verification.
+* Privately input the credential into an Aleo program.
+  * Execute program using wasm on local device.
+  * Generate program output and an execution proof.

@@ -24,5 +24,5 @@ Initiates a query to the Holder, requesting a ZKP for a specific identity claim.
 
 **Verification workflow**
 
-1. Receives the ZKP from the Holder.
-2. Validates it using corresponding Aleo network protocols.
+1. Receive the zPass from the Holder.
+2. Validate zPass using corresponding Aleo network protocols.
