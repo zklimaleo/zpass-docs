@@ -1,6 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Technical Guide
 
-#### Getting Started with Aleo
+### Getting Started with Aleo
 
 Before diving into the code, initialize the Aleo SDK:
 
@@ -11,7 +25,7 @@ await aleo.initializeWasm();
 
 This allows you to work with Aleo's functions in your application.
 
-#### Establishing Connection to Aleo VM
+### Establishing Connection to Aleo VM
 
 For our demo, we'll connect to Aleo's VM (Virtual Machine):
 
@@ -25,7 +39,7 @@ const programManager = new aleo.ProgramManager(
 );
 ```
 
-#### Creating Credentials
+### Creating Credentials
 
 Our demo will involve generating a credential off-chain:
 
@@ -42,7 +56,7 @@ struct Message:
 
 In real-world scenarios, a Holder might receive a credential like a passport from an Issuer. This passport could be verified through its native signature, proving its authenticity.
 
-#### Verifying Credentials
+### Verifying Credentials
 
 The Verifier checks the credentials using Aleo programs. Here are example Aleo programs that hash credentials using different algorithms:
 
@@ -53,7 +67,7 @@ The Verifier checks the credentials using Aleo programs. Here are example Aleo p
 
 These programs take the credential as input, hash it, and then use the hash to verify the signature.
 
-#### Execution & Verification using WebAssembly (Wasm)
+### Execution & Verification using WebAssembly (Wasm)
 
 Aleo leverages WebAssembly (Wasm) for executing programs in a local environment:
 
