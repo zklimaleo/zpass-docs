@@ -26,7 +26,7 @@
 ## Workflow Guide
 
 * [Off-chain Workflow](workflow-guide/off-chain-workflow/README.md)
-  * [What is the Off-Chain?](workflow-guide/off-chain-workflow/what-is-the-off-chain.md)
+  * [What is Off-Chain?](workflow-guide/off-chain-workflow/what-is-off-chain.md)
   * [Trustless Ecosystem with WASM](workflow-guide/off-chain-workflow/trustless-ecosystem-with-wasm.md)
   * [Technical Guide](workflow-guide/off-chain-workflow/technical-guide/README.md)
     * [offchain\_verifier1.aleo (Keccak)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier1.aleo-keccak.md)
@@ -34,7 +34,7 @@
     * [offchain\_verifier3.aleo (BHP)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier3.aleo-bhp.md)
     * [offchain\_verifier4.aleo (Poseidon)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier4.aleo-poseidon.md)
   * [Up Next](workflow-guide/off-chain-workflow/up-next.md)
-* [On-chain Workflow](workflow-guide/on-chain-workflow/README.md)
-  * [On-Chain Issuance](workflow-guide/on-chain-workflow/on-chain-issuance.md)
+* [On-chain Workflow](workflow-guide/on-chain-workflow.md)
+  * [What is On-Chain?](workflow-guide/on-chain-workflow/what-is-on-chain.md)
   * [Technical Guide](workflow-guide/on-chain-workflow/technical-guide/README.md)
     * [onchain\_issuer.aleo (Poseidon)](workflow-guide/on-chain-workflow/technical-guide/onchain\_issuer.aleo-poseidon.md)
