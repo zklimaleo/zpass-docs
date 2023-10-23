@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Privacy and Security with WASM
+# Local Execution with WASM
 
 WebAssembly (WASM) is integral to zPass, designed to maximize user security and data control. By using WASM for client-side data processing, zPass eliminates unnecessary data transfers, reducing exposure risks.
 

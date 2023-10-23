@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>Load or Generate Account </summary>
+<summary>Generate Account </summary>
 
 {% code overflow="wrap" %}
 ```rust

@@ -17,7 +17,7 @@
   * [Sign Credential](fundamentals/issuer/sign-credential.md)
 * [Holder](fundamentals/holder/README.md)
   * [Generate Account](fundamentals/holder/generate-account.md)
-  * [Local Execution with WASM](fundamentals/holder/local-execution-with-wasm.md)
+  * [Local Execution with WASM](fundamentals/verifier/trustless-ecosystem-with-wasm.md)
 * [Verifier](fundamentals/verifier/README.md)
   * [What is Off-Chain?](fundamentals/verifier/what-is-off-chain.md)
   * [What is On-Chain?](fundamentals/verifier/what-is-on-chain.md)

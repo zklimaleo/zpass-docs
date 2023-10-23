@@ -23,7 +23,7 @@ The tutorial aims to guide you through the use of the `generate_message_with_add
 Here's the function definition:
 
 ```rust
-rustCopy codepub(crate) fn generate_message_with_addresses_and_fields(payload: Credential) -> Result<Value<Testnet3>, anyhow::Error>;
+pub(crate) fn generate_message_with_addresses_and_fields(payload: Credential) -> Result<Value<Testnet3>, anyhow::Error>;
 ```
 
 #### Parameters:
@@ -36,6 +36,15 @@ A `Result` containing:
 
 * A `Value<Testnet3>` object, or
 * An error of type `anyhow::Error` if the operation fails.
+
+### Under the Hood: Insertion to Map
+
+The function employs an `IndexMap` with an initial capacity of 3 to store key-value pairs. The function `insert_to_map` is called multiple times to insert:
+
+* `issuer` and `subject` as addresses.
+* `dob`, `nationality`, and `expiry` as fields.
+
+These are all inserted as `Plaintext` types, and they are derived from the `Credential` payload.
 
 ### Attributes
 
