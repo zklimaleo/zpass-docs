@@ -21,7 +21,7 @@ layout:
 Let's break it down into two main sections:
 
 1. **Credential Generation (Off-chain)**
-2. **Holder Presentation and Aleo Verifier Process**
+2. **Holder Presentation and Aleo Verification (Off-chain)**
 
 The off-chain flow offers a path to ensure privacy and trust without depending on the blockchain.
 

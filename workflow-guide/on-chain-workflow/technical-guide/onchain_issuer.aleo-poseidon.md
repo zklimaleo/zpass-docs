@@ -12,11 +12,9 @@ layout:
     visible: true
 ---
 
-# Proof Credential (WIP)
+# onchain\_issuer.aleo (Poseidon)
 
-When an Aleo program is executed an execution proof and program outputs are produced.
-
-```javascript
+```
 // Aleo program named 'onchain_issuer'
 program onchain_issuer.aleo {
 
