@@ -17,11 +17,7 @@ layout:
     visible: true
 ---
 
-# System Architecture & Participants
-
-
-
-<figure><img src="../.gitbook/assets/Chart2.png" alt=""><figcaption></figcaption></figure>
+# System Participants
 
 ## Issuer
 
