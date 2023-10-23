@@ -18,9 +18,7 @@ layout:
 
 The `create_hash` function generates a cryptographic hash using one of the supported algorithms. It returns a `Result` containing either the generated hash as a `String` or an error using the `anyhow` library for extended error handling.
 
-### Function Signature
-
-Here is the function definition:
+### Function Definition
 
 ```rust
 pub(crate) fn create_hash(value: Value<Testnet3>, algorithm: HashAlgorithm) -> Result<String, anyhow::Error>;

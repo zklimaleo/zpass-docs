@@ -16,11 +16,9 @@ layout:
 
 ### Overview
 
-The tutorial aims to guide you through the use of the `generate_message_with_addresses_and_fields` function. This function takes a `Credential` payload and returns a `Value<Testnet3>` wrapped in Rust's `Result` type.
+The `generate_message_with_addresses_and_fields` function. This function takes a `Credential` payload and returns a `Value<Testnet3>` wrapped in Rust's `Result` type.
 
-### Function Signature
-
-Here's the function definition:
+### Function Definition
 
 ```rust
 pub(crate) fn generate_message_with_addresses_and_fields(payload: Credential) -> Result<Value<Testnet3>, anyhow::Error>;

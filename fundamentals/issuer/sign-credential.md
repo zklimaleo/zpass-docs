@@ -16,11 +16,9 @@ layout:
 
 ### Overview
 
-This provides an explanation of how to use the `sign_message_with_private_key` function to sign a message using a private key and a random number generator in a Rust environment. The function returns either a generated signature and nonce or an error message.
+The `sign_message_with_private_key` function to sign a message using a private key and a random number generator in a Rust environment. The function returns either a generated signature and nonce or an error message.
 
-### Function Signature
-
-Here's the function definition:
+### Function Definition
 
 ```rust
 sign_message_with_private_key(
