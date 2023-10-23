@@ -23,7 +23,7 @@ Let's break it down into two main sections:
 1. **Credential Generation (Off-chain)**
 2. **Holder Presentation and Aleo Verifier Process**
 
-The off-chain flow offers a mechanism to ensure privacy and trust without depending on blockchain transactions.
+The off-chain flow offers a path to ensure privacy and trust without depending on the blockchain.
 
 1. **User Requests a Credential**: An entity (or user) approaches a recognized issuer for a credential.
 2. **Credential Generation by the Issuer**: The issuer, after due verification, creates a digital credential for the user, we refer to this as a zPass, though, this step can happen entirely outside the Aleo ecosystem.
