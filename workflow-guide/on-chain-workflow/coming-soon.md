@@ -16,6 +16,6 @@ layout:
 
 ### **Next Steps**
 
-The live example of the On-chain Workflow will be coming soon... for now ->
+The technical guide and live example of the On-chain Workflow will be coming soon... for now ->
 
-Visit **zPass.tools.aleo.org** for a live example of the Off-chain workflow demo!
+Visit **zPass.tools.aleo.org** to demo the Off-chain workflow!
