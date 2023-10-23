@@ -14,7 +14,7 @@ layout:
 
 # Technical Guide
 
-### Getting Started with Aleo
+### Getting Started with zPass
 
 Before diving into the code, initialize the Aleo SDK. This allows you to work with Aleo's functions in your application.
 
