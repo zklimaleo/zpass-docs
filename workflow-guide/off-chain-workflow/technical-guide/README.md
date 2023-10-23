@@ -70,12 +70,9 @@ _**In real-world scenarios, a Holder might receive a credential like a passport 
 
 ### Verifying Credentials
 
-The Verifier checks the credentials using Aleo programs. Here are examples of Aleo programs that hash credentials using different algorithms:
+The Verifier checks the credentials using Aleo programs. Reference the provided example of an Aleo program hashing credentials using Poseidon2:
 
-* Keccak: `offchain_verifier1.aleo`
-* SHA-3: `offchain_verifier2.aleo`
-* BHP: `offchain_verifier3.aleo`
-* Poseidon: `offchain_verifier4.aleo`
+* Poseidon: `offchain_verifier.aleo`
 
 These programs take the credential as input, hash it, and then use the hash to verify the signature.
 

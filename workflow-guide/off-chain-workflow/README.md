@@ -14,7 +14,7 @@ layout:
 
 # Off-chain Workflow
 
-<figure><img src="../../.gitbook/assets/offchain.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/offchain.png" alt=""><figcaption></figcaption></figure>
 
 ## zPass **Off-Chain Flow**
 

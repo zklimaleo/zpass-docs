@@ -16,7 +16,7 @@ layout:
 
 ### Off-chain Workflow Conclusion
 
-This guide walked through the foundational steps for the off-chain workflow of Aleo's zPass, focusing on the roles of the issuer, holder, and verifier.&#x20;
+This guide covered steps for the off-chain workflow of Aleo's zPass, focusing on the roles of the issuer, holder, and verifier.&#x20;
 
 By integrating zPass users can ensure privacy-preserving verification of credentials. The Holder retains control, the Verifier can check credentials without compromising privacy, and the Issuer provides a trusted foundation.
 

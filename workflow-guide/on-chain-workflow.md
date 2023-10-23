@@ -14,7 +14,7 @@ layout:
 
 # On-chain Workflow
 
-<figure><img src="../.gitbook/assets/Chart2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Chart2.png" alt=""><figcaption></figcaption></figure>
 
 ## zPass **On-Chain Flow**
 

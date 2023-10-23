@@ -26,11 +26,8 @@
 
 * [Off-chain Workflow](workflow-guide/off-chain-workflow/README.md)
   * [Technical Guide](workflow-guide/off-chain-workflow/technical-guide/README.md)
-    * [Off-Chain Verification](workflow-guide/off-chain-workflow/technical-guide/off-chain-verification.md)
-    * [offchain\_verifier1.aleo (Keccak)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier1.aleo-keccak.md)
-    * [offchain\_verifier2.aleo (SHA)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier2.aleo-sha.md)
-    * [offchain\_verifier3.aleo (BHP)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier3.aleo-bhp.md)
-    * [offchain\_verifier4.aleo (Poseidon)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier4.aleo-poseidon.md)
+    * [Off-Chain Verification (Example)](workflow-guide/off-chain-workflow/technical-guide/off-chain-verification-example.md)
+    * [offchain\_verifier.aleo (Poseidon)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier.aleo-poseidon.md)
   * [Up Next](workflow-guide/off-chain-workflow/up-next.md)
 * [On-chain Workflow](workflow-guide/on-chain-workflow.md)
   * [Coming Soon](workflow-guide/on-chain-workflow/coming-soon.md)

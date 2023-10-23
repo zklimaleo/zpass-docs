@@ -19,7 +19,7 @@ layout:
 
 # Benefits & Use Cases
 
-### Benefits
+## Benefits
 
 **Security**: Decentralization through Aleo’s blockchain eliminates single points of failure and minimizes the risk of mass data breaches.
 
@@ -29,7 +29,7 @@ layout:
 
 By focusing on decentralized control, customizable verification, and interoperability, zPass is pioneering a more secure and private user identity experience.
 
-### Use cases
+## Use cases
 
 ### **Age checks for regulated markets**
 
