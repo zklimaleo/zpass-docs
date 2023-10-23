@@ -19,7 +19,7 @@ layout:
 
 # System Actors
 
-### _Trust and control pivot around the Issuer, Holder, and Verifier._&#x20;
+_Trust and control pivot around the Issuer, Holder, and Verifier._&#x20;
 
 **The Issuer** creates digitally signed credentials to establish a foundation of trust.&#x20;
 
