@@ -36,3 +36,4 @@
 * [On-chain Workflow](workflow-guide/on-chain-workflow.md)
   * [Technical Guide](workflow-guide/on-chain-workflow/technical-guide/README.md)
     * [onchain\_issuer.aleo (Poseidon)](workflow-guide/on-chain-workflow/technical-guide/onchain\_issuer.aleo-poseidon.md)
+  * [Coming Soon](workflow-guide/on-chain-workflow/coming-soon.md)
