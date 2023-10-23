@@ -33,6 +33,5 @@
     * [offchain\_verifier4.aleo (Poseidon)](workflow-guide/off-chain-workflow/technical-guide/offchain\_verifier4.aleo-poseidon.md)
   * [Up Next](workflow-guide/off-chain-workflow/up-next.md)
 * [On-chain Workflow](workflow-guide/on-chain-workflow.md)
-  * [Technical Guide](workflow-guide/on-chain-workflow/technical-guide/README.md)
-    * [onchain\_issuer.aleo (Poseidon)](workflow-guide/on-chain-workflow/technical-guide/onchain\_issuer.aleo-poseidon.md)
+  * [Technical Guide](workflow-guide/on-chain-workflow/technical-guide.md)
   * [Coming Soon](workflow-guide/on-chain-workflow/coming-soon.md)

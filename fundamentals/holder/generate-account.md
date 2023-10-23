@@ -1,5 +1,28 @@
 # Generate Account
 
+### Overview
+
+The `generate_private_key` function is designed to generate a private key using a provided random number generator (RNG) in Rust.
+
+### Function Signature
+
+Here's the function definition:
+
+```rust
+fn generate_private_key(rng: &mut TestRng) -> Result<PrivateKey<Testnet3>, String>;
+```
+
+#### Parameters:
+
+* **rng**: A mutable reference to a random number generator (`TestRng`).
+
+#### Returns:
+
+A `Result` containing either:
+
+* A generated private key of type `PrivateKey<Testnet3>`, or
+* An error message (`String`) indicating the failure.
+
 <details>
 
 <summary>Generate Account </summary>
