@@ -23,5 +23,5 @@ While Aleo provides the tools to generate and manage credentials within its ecos
 For instance, consider a passport. Issued by national authorities, passports aren't native to the Aleo or any blockchain system, yet their native signatures can fit smoothly into Aleo's ecosystem. These native signatures allow external credentials to integrate into zPass. Here's how:
 
 1. **Credential Creation (Off-Chain):** A trusted entity, like a government agency, issues a passport with a native signature. This passport serves as a credential.
-2. **Credential Integration:** The Holder, who possesses the credential, can introduce this credential into Aleo's system. Attributes within the passport, like date of birth or nationality, can be converted into a digital format suitable for Aleo's programs.
+2. **Credential Integration:** The Holder, who possesses the credential, can introduce this credential into the zPass system. Attributes within the passport, like date of birth or nationality, can be converted into a digital format suitable for Aleo's programs.
 3. **Credential Verification:** Once integrated, the Aleo program can execute and verify the credential's authenticity. This execution yields an output (often a boolean value) that confirms if the verification was successful.
