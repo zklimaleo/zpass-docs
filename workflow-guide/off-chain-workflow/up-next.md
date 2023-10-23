@@ -22,9 +22,5 @@ By integrating zPass users can ensure privacy-preserving verification of credent
 
 ### **Next Steps**
 
-Visit **zPass.tools.aleo.org** for a live example of this demo!
-
-**or**
-
-Continue reading the docs for the On-chain Workflow...
+Visit **zPass.tools.aleo.org** for a live example!
 
