@@ -19,8 +19,8 @@
   * [Generate Account](fundamentals/holder/generate-account.md)
   * [Local Execution with WASM](fundamentals/verifier/trustless-ecosystem-with-wasm.md)
 * [Verifier](fundamentals/verifier/README.md)
-  * [The off-chain flow](fundamentals/verifier/the-off-chain-flow.md)
-  * [The on-chain flow](fundamentals/verifier/the-on-chain-flow.md)
+  * [Off-chain flow](fundamentals/verifier/off-chain-flow.md)
+  * [On-chain flow](fundamentals/verifier/on-chain-flow.md)
 
 ## Workflow Guide
 
