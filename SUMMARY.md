@@ -4,9 +4,9 @@
 
 * [Overview](README.md)
 * [Background](zpass/background.md)
+* [Benefits & Use Cases](zpass/benefits-and-use-cases.md)
 * [Technical Foundations](zpass/technical-foundations.md)
 * [System Actors](zpass/system-actors.md)
-* [Use Cases](zpass/use-cases.md)
 * [Powered by Aleo](zpass/powered-by-aleo.md)
 
 ## Fundamentals
