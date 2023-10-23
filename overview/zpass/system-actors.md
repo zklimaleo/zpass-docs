@@ -19,9 +19,7 @@ layout:
 
 # System Actors
 
-_Trust and control pivot around the Issuer, Holder, and Verifier._&#x20;
-
-**The Issuer** creates digitally signed credentials to establish a foundation of trust.&#x20;
+&#x20;**The Issuer** creates digitally signed credentials to establish a foundation of trust.&#x20;
 
 **The Holder** securely stores these credentials and utilizes zero-knowledge proofs to selectively substantiate their claims, increasing their autonomy.&#x20;
 
