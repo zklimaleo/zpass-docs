@@ -1,7 +1,12 @@
 ---
+cover: ../../.gitbook/assets/Issuer.png
+coverY: 0
 layout:
-  title:
+  cover:
     visible: true
+    size: hero
+  title:
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -14,7 +19,7 @@ layout:
 
 # Issuer
 
-### Role and responsibilities
+## Role and responsibilities
 
 **Credential generation**: Creates a digital credential with required attributes like issuer address, subject address, date of birth (DOB), and expiration date.
 

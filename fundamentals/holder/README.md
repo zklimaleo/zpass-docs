@@ -1,7 +1,12 @@
 ---
+cover: ../../.gitbook/assets/Holder.png
+coverY: 0
 layout:
-  title:
+  cover:
     visible: true
+    size: hero
+  title:
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -14,7 +19,7 @@ layout:
 
 # Holder
 
-### Roles and responsibilities
+## Roles and responsibilities
 
 **Identity proofing:** Utilizes the signed credential to assert identity or specific claims.
 

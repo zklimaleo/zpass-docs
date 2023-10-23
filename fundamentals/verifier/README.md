@@ -1,7 +1,12 @@
 ---
+cover: ../../.gitbook/assets/Verifier.png
+coverY: 0
 layout:
-  title:
+  cover:
     visible: true
+    size: hero
+  title:
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -14,7 +19,7 @@ layout:
 
 # Verifier
 
-### Role and responsibilities
+## Role and responsibilities
 
 **Claim verification**: Requests and verifies ZKP to confirm the Holder’s identity or specific claims.
 
