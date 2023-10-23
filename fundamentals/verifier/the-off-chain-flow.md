@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# The off-chain flow
+# Off-chain flow
 
 The off-chain flow refers to the operations that occur outside the Aleo blockchain. These operations can either be initiated and completed off-chain or have their beginnings outside the Aleo ecosystem.
 

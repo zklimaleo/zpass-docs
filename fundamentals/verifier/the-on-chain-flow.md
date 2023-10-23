@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# The on-chain flow
+# On-chain flow
 
 The on-chain flow in the Aleo ecosystem focuses on interactions directly within the blockchain. These interactions provide permissionless privacy and trust. This contrasts the off-chain flow, where operations might be initiated and completed outside the zPass system.
 
