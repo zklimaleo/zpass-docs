@@ -49,7 +49,7 @@ const programManager = new aleo.ProgramManager(
 
 **Credential Structure and Verification Programs**
 
-Credentials often contain attributes. Here, we have a structure named `Message`, which contains attributes like issuer address, subject address, date of birth, nationality, and expiry date. Below are Aleo programs for different hashing methods (keccak, sha3, bhp1024, and poseidon2):
+Credentials often contain attributes. Here, we have a structure named `Credential`, which contains attributes like issuer address, subject address, date of birth, nationality, and expiry date. Below are Aleo programs for different hashing methods (keccak, sha3, bhp1024, and poseidon2):
 
 ### Creating Credentials
 
@@ -70,7 +70,7 @@ _**In real-world scenarios, a Holder might receive a credential like a passport 
 
 ### Verifying Credentials
 
-The Verifier checks the credentials using Aleo programs. Here are example Aleo programs that hash credentials using different algorithms:
+The Verifier checks the credentials using Aleo programs. Here are examples of Aleo programs that hash credentials using different algorithms:
 
 * Keccak: `offchain_verifier1.aleo`
 * SHA-3: `offchain_verifier2.aleo`
