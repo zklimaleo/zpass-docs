@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# offchain\_verifier3.aleo (BHP1024)
+# offchain\_verifier2.aleo (SHA)
 
 ```rust
 export const SIGVERIFY_PROGRAM_BHP1024 = `
