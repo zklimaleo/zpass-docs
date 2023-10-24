@@ -35,7 +35,7 @@ A `Result` containing:
 * A `Value<Testnet3>` object, or
 * An error of type `anyhow::Error` if the operation fails.
 
-### Under the Hood: Insertion to Map
+### Insertion to Map
 
 The function employs an `IndexMap` with an initial capacity of 3 to store key-value pairs. The function `insert_to_map` is called multiple times to insert:
 
