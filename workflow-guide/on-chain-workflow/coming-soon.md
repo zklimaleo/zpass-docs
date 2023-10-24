@@ -18,4 +18,4 @@ layout:
 
 The technical guide and live example of the On-chain Workflow will be coming soon... for now ->
 
-Visit **zPass.tools.aleo.org** to demo the Off-chain workflow!
+Visit [**zpass.tools.aleo.org**](https://zpass.tools.aleo.org) to demo the Off-chain workflow!

@@ -22,5 +22,5 @@ By integrating zPass users can ensure privacy-preserving verification of credent
 
 ### **Next Steps**
 
-Visit **zPass.tools.aleo.org** for a live example!
+Visit [**zpass.tools.aleo.org**](https://zpass.tools.aleo.org) for a live example!
 
