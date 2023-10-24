@@ -16,6 +16,8 @@ layout:
 
 The off-chain flow refers to the operations that occur outside the Aleo blockchain. These operations can either be initiated and completed off-chain or have their beginnings outside the Aleo ecosystem.
 
+<figure><img src="../../.gitbook/assets/offchain.png" alt=""><figcaption></figcaption></figure>
+
 #### Origin of Credentials: Beyond the Aleo Ecosystem
 
 While zPass provides the tools to generate and manage credentials on the Aleo blockchain, a credential might have an off-chain origin, like a government-issued passport or a university degree. Although produced outside of Aleo's specific programs, these documents can still play a role in zPass.
