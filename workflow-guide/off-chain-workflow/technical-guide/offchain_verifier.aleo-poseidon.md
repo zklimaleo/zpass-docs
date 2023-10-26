@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# offchain\_verifier4.aleo (Poseidon)
+# offchain\_verifier.aleo (Poseidon)
 
 ```rust
 export const SIGVERIFY_PROGRAM_BHP1024 = `
@@ -39,11 +39,11 @@ closure signature_verification:
 
 
 function verify:
-    input r0 as signature.public;
-    input r1 as address.public;
-    input r2 as Message.public;
+    input r0 as signature.private;
+    input r1 as address.private;
+    input r2 as Message.private;
     call get_msg_hash r2 into r3;
     call signature_verification r3 r0 r1 into r4;
-    output r4 as boolean.private;
+    output r4 as boolean.public;
 `;
 ```
