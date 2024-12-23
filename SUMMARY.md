@@ -21,3 +21,5 @@
 
 ## ZPass SDK
 
+* [Constructor](zpass-sdk/constructor.md)
+* [setNewHost](zpass-sdk/setnewhost.md)

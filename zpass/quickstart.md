@@ -16,13 +16,13 @@ layout:
 
 ### Getting Started with zPass
 
-Install zPass-SDK using 
+Install zPass-SDK using
 
 ```bash
 npm install zpass-sdk
-```  
+```
 
-As zPass-SDK is using wasm for its core functionality, remember to install wasm supporting packages in your project such as `vite-plugin-wasm` to make sure wasm can be run properly.  
+As zPass-SDK is using wasm for its core functionality, remember to install wasm supporting packages in your project such as `vite-plugin-wasm` to make sure wasm can be run properly.
 
 It is recommended to setup worker thread in your project to run the `zpass-sdk` properly.
 
@@ -49,6 +49,11 @@ import { ZPassSDK, initThreadPool } from "zpass-sdk";
 await initThreadPool();
 ```
 
+### ZPass SDK API References
+
+Please refer xxx for the API references of `zpass-sdk`.
+
 ### Example Usage
 
-For example on how to use zPass-SDK, please refer to 
+For example on how to use `zpass-sdk`, please refer to
+
