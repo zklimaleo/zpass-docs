@@ -33,3 +33,7 @@
 * [signCredential](zpass-sdk/signcredential.md)
 * [initThreadPool](zpass-sdk/initthreadpool.md)
 * [createAleoWorker](zpass-sdk/createaleoworker.md)
+
+***
+
+* [Example Usage](example-usage.md)

@@ -51,8 +51,8 @@ await initThreadPool();
 
 ### ZPass SDK Methods References
 
-Please refer to [ZPass SDK Overview](../zpass-sdk/overview.md) for the methods references of `zpass-sdk`.
+Please refer to [overview.md](../zpass-sdk/overview.md "mention") for the methods references of `zpass-sdk`.
 
 ### Example Usage
 
-For example on how to use `zpass-sdk`, please refer to
+For example on how to use `zpass-sdk`, please refer to [#example-usage](quickstart.md#example-usage "mention").
