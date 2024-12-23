@@ -51,7 +51,7 @@ await initThreadPool();
 
 ### ZPass SDK API References
 
-Please refer xxx for the API references of `zpass-sdk`.
+Please refer to [API References](../zpass-sdk/README.md) for the API references of `zpass-sdk`.
 
 ### Example Usage
 
