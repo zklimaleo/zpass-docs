@@ -19,7 +19,7 @@ layout:
 
 # Overview
 
-Navigating the balance between robust identity verification and user privacy is essential in an increasingly digital world. Traditional identity systems, vulnerable to DDoS and single-point failures, fall short in the modern threat landscape.&#x20;
+Navigating the balance between robust identity verification and user privacy is essential in an increasingly digital world. Traditional identity systems, vulnerable to DDoS and single-point failures, fall short in the modern threat landscape.
 
 In this paper, we present zPass, a protocol on the Aleo blockchain that uses zero-knowledge cryptography to empower users with:
 

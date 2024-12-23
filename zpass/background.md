@@ -19,24 +19,38 @@ layout:
 
 # Background
 
-Web users often need to prove specific attributes about themselves, such as age, nationality, or membership. There is a growing need for those users to verify those attributes about themselves without risking their privacy or personal data.
+In today's digital world, users frequently need to verify personal attributes like age, nationality, or membership status. However, this verification process often comes with privacy risks and potential exposure of sensitive personal data. There is a critical need for solutions that enable secure attribute verification while preserving user privacy.
 
-This document introduces zPass, a solution that employs Aleo, the zero-knowledge developer platform and blockchain, and its domain-specific language, Leo, to generate programs that better protect privacy in identity verification.
+zPass addresses this need by leveraging Aleo's zero-knowledge developer platform and blockchain technology, along with its domain-specific language Leo. This innovative approach enables the creation of privacy-preserving identity verification programs that put users in control of their data while simplifying compliance for platforms and developers.
 
-This protocol transforms how credentials are issued, verified, and used. It places power in the hands of the users while ensuring privacy and eliminating the challenge of compliance for platforms and developers.
+### The Privacy Challenge
 
-### **The central challenge**
+The digital verification of identity attributes presents two fundamental challenges:
+- Minimizing unnecessary personal data exposure
+- Maintaining compliance with evolving data protection regulations
 
-Verifying identity attributes like age and nationality in the digital realm poses two main challenges: the need to minimize personal data disclosure and remain compliant with increasingly stringent data protection regulations.
+### Regulatory Environment
 
-### **Regulatory landscape**
+Modern data protection frameworks like GDPR and CCPA have established strict requirements for privacy and security. Organizations must now carefully balance effective identity verification with regulatory compliance or face severe penalties and reputational damage.
 
-Regulatory frameworks such as GDPR and CCPA have raised the bar for data privacy and security, making it imperative for identity management solutions to align with legal requirements (non-compliance risks significant financial and reputational damage).
+### Current Solution Limitations
 
-### **Limitations of existing solutions**
+Traditional centralized identity systems struggle with an inherent conflict between security and privacy:
+- They often collect excessive data beyond verification requirements
+- Despite regulatory compliance, they remain vulnerable to data breaches
+- They face ongoing social engineering attack risks
 
-Current centralized identity systems face a trade-off between security and privacy, often collecting more data than is actually needed for verification. While sometimes compliant with regulations, they become prime targets for data breaches and social engineering attacks, undermining user privacy and regulatory adherence. On the other hand, existing decentralized solutions struggle with privacy and efficiency due to the public nature of transparent on-chain execution.
+Meanwhile, existing decentralized approaches encounter their own challenges:
+- Limited privacy due to transparent blockchain transactions
+- Efficiency constraints in processing verifications
+- Difficulty maintaining both security and usability
 
-### **A compliant, secure alternative**
+### The zPass Solution
 
-Built on the Aleo blockchain, zPass is designed to utilize zero-knowledge cryptography as a flexible solution in an evolving regulatory environment. The system aims to provide verification assurance with minimized data exposure, making it compatible with current and anticipated regulatory guidelines.
+Built on Aleo's blockchain infrastructure, zPass represents a new paradigm in identity verification:
+- Leverages zero-knowledge cryptography for privacy-preserving verification
+- Adapts flexibly to evolving regulatory requirements
+- Provides robust verification while minimizing data exposure
+- Ensures compliance with current and future privacy regulations
+
+This innovative approach transforms credential management by combining the security benefits of blockchain technology with the privacy guarantees of zero-knowledge proofs, creating a solution that truly serves both users and verifiers in the modern digital landscape.

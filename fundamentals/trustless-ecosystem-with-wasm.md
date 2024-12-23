@@ -29,5 +29,3 @@ The architecture creates a trustless computing ecosystem. It minimizes dependenc
 #### Security advantages
 
 WASM is engineered to enforce the same-origin and permissions security policies of the browser, which makes it an apt choice for secure, controlled execution of code. zPass leverages these inherent security features to establish a secure execution environment for user-specific applications.
-
-\
