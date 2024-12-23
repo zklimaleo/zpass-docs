@@ -34,6 +34,6 @@
 * [initThreadPool](zpass-sdk/initthreadpool.md)
 * [createAleoWorker](zpass-sdk/createaleoworker.md)
 
-***
+## Example Usage
 
-* [Example Usage](example-usage.md)
+* [Step-by-step Guide](example-usage/step-by-step-guide.md)
