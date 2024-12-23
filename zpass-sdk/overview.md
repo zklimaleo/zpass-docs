@@ -1,6 +1,6 @@
-# ZPass SDK Documentation
+# ZPass SDK methods overview
 
-The ZPass SDK provides a comprehensive set of tools for interacting with ZPass credentials on the Aleo blockchain.
+The ZPass SDK provides a comprehensive set of methods for interacting with ZPass credentials on the Aleo blockchain.
 
 ## Core Operations
 

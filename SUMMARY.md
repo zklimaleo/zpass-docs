@@ -19,8 +19,9 @@
 * [On-chain flow](fundamentals/the-on-chain-flow.md)
 * [Local Execution with WASM](fundamentals/trustless-ecosystem-with-wasm.md)
 
-## [ZPass SDK](zpass-sdk/README.md)
+## ZPass SDK
 
+* [Overview](zpass-sdk/overview.md)
 * [constructor](zpass-sdk/constructor.md)
 * [setNewHost](zpass-sdk/setnewhost.md)
 * [issueZPass](zpass-sdk/issuezpass.md)
