@@ -49,11 +49,10 @@ import { ZPassSDK, initThreadPool } from "zpass-sdk";
 await initThreadPool();
 ```
 
-### ZPass SDK methods References
+### ZPass SDK Methods References
 
-Please refer to [Methods References](../zpass-sdk/overview.md) for the methods references of `zpass-sdk`.
+Please refer to [ZPass SDK Overview](../zpass-sdk/overview.md) for the methods references of `zpass-sdk`.
 
 ### Example Usage
 
 For example on how to use `zpass-sdk`, please refer to
-
