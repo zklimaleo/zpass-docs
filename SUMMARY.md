@@ -15,6 +15,7 @@
   * [Generate Credential](fundamentals/issuer/generate-credential.md)
   * [Hash Credential](fundamentals/issuer/hash-credential.md)
   * [Sign Credential](fundamentals/issuer/sign-credential.md)
+  * [Test](fundamentals/issuer/test.md)
 * [Holder](fundamentals/holder/README.md)
   * [Generate Account](fundamentals/holder/generate-account.md)
   * [Local Execution with WASM](fundamentals/verifier/trustless-ecosystem-with-wasm.md)
