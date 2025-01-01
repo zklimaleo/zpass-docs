@@ -1,4 +1,4 @@
-# Example Usage
+# Step-by-step Guide
 
 ## Setup
 
@@ -36,7 +36,7 @@ const sdk = new ZPassSDK({
 ```
 
 3. Import `expose` from `comlink` to expose functions that are created in `worker.js` later.
-4. To start using zPass on-chain, a zPass program must be deployed onto the network or use any zPass program that has been deployed. Check out this <mark style="background-color:yellow;">guide</mark> on how to write a zPass program to prove certain credentials requirements.
+4. To start using zPass on-chain, a zPass program must be deployed onto the network or use any zPass program that has been deployed. Check out this [guide](../zpass/background.md) on how to write a zPass program to prove certain credentials requirements.
 5. Once a zPass program is deployed on-chain, the first thing to do is to get the issuer to sign the credentials defined in the zPass program so that the users can issue themselves an on-chain zPass later.
 6. For example, first create a function called `testZPass()` and in the scope of it, let’s use the `signCredential` method from ZPassSDK.
 7. The `signCredential` method takes an argument as an object with fields:

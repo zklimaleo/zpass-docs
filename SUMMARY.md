@@ -2,7 +2,7 @@
 
 ## zPass
 
-* [Overview](README.md)
+* [Introduction](README.md)
 * [Quickstart](zpass/quickstart.md)
 * [Background](zpass/background.md)
 * [Benefits & Use Cases](zpass/benefits-and-use-cases.md)
@@ -19,20 +19,29 @@
 * [On-chain flow](fundamentals/the-on-chain-flow.md)
 * [Local Execution with WASM](fundamentals/trustless-ecosystem-with-wasm.md)
 
+## ZPass Programs
+
+* [Background](zpass-programs/background.md)
+* [Verify offchain program](zpass-programs/verify-offchain-program.md)
+* [zPass issuance program](zpass-programs/zpass-issuance-program.md)
+* [zPass hiding program](zpass-programs/zpass-hiding-program.md)
+* [zPass invalidate program](zpass-programs/zpass-invalidate-program.md)
+* [zPass invalidate hiding program](zpass-programs/zpass-invalidate-hiding-program.md)
+
 ## ZPass SDK
 
-* [Overview](zpass-sdk/overview.md)
-* [constructor](zpass-sdk/constructor.md)
-* [setNewHost](zpass-sdk/setnewhost.md)
-* [issueZPass](zpass-sdk/issuezpass.md)
-* [getZPassRecord](zpass-sdk/getzpassrecord.md)
-* [proveOnChain](zpass-sdk/proveonchain.md)
-* [proveOffChain](zpass-sdk/proveoffchain.md)
-* [verifyOnChain](zpass-sdk/verifyonchain.md)
-* [verifyOffChain](zpass-sdk/verifyoffchain.md)
-* [signCredential](zpass-sdk/signcredential.md)
-* [initThreadPool](zpass-sdk/initthreadpool.md)
-* [createAleoWorker](zpass-sdk/createaleoworker.md)
+* [Methods References](zpass-sdk/overview/README.md)
+  * [constructor](zpass-sdk/overview/constructor.md)
+  * [setNewHost](zpass-sdk/overview/setnewhost.md)
+  * [issueZPass](zpass-sdk/overview/issuezpass.md)
+  * [getZPassRecord](zpass-sdk/overview/getzpassrecord.md)
+  * [proveOnChain](zpass-sdk/overview/proveonchain.md)
+  * [proveOffChain](zpass-sdk/overview/proveoffchain.md)
+  * [verifyOnChain](zpass-sdk/overview/verifyonchain.md)
+  * [verifyOffChain](zpass-sdk/overview/verifyoffchain.md)
+  * [signCredential](zpass-sdk/overview/signcredential.md)
+  * [initThreadPool](zpass-sdk/overview/initthreadpool.md)
+  * [createAleoWorker](zpass-sdk/overview/createaleoworker.md)
 
 ## Example Usage
 

@@ -12,7 +12,7 @@ The `verifyOffChain` static method verifies an off-chain ZPass proof locally wit
   * **`functionName` (string)**: Name of the function that was executed
   * **`inputs` (string\[], optional)**: Array of input parameters used, must be provided if `verifyingKey` is not provided
   * **`verifyingKey` (string, optional)**: The verifying key for the proof, must be provided if `inputs` is not provided
-  * **`url` (string, optional)**: Custom API endpoint URL
+  * **`url` (string, optional)**: Custom API endpoint URL, for keys synthesizing purpose
 
 ### Returns
 
